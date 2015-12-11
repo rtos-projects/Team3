@@ -1,0 +1,445 @@
+PID:-[1855] priority:-[1] mode:-[0] Criticality:-[0] exec_time:-[2] c_lo:-[8] c_hi:-[8]
+PID:-[1857] priority:-[2] mode:-[0] Criticality:-[0] exec_time:-[3] c_lo:-[4] c_hi:-[4]
+PID:-[1856] priority:-[3] mode:-[0] Criticality:-[1] exec_time:-[8] c_lo:-[4] c_hi:-[10]
+39164 P1 [pfp_schedule@litmus/sched_fpps.c:403]: Entering bailout mode
+
+bfund = [6]
+PID:-[1858] priority:-[4] mode:-[1] Criticality:-[1] exec_time:-[7] c_lo:-[8] c_hi:-[8]
+bfund = [5]
+39187 P1 [pfp_schedule@litmus/sched_fpps.c:461]: Entering Normal mode
+
+PID:-[1855] priority:-[1] mode:-[0] Criticality:-[0] exec_time:-[3] c_lo:-[8] c_hi:-[8]
+PID:-[1857] priority:-[2] mode:-[0] Criticality:-[0] exec_time:-[3] c_lo:-[4] c_hi:-[4]
+PID:-[1858] priority:-[4] mode:-[0] Criticality:-[1] exec_time:-[2] c_lo:-[8] c_hi:-[8]
+PID:-[1855] priority:-[1] mode:-[0] Criticality:-[0] exec_time:-[5] c_lo:-[8] c_hi:-[8]
+PID:-[1857] priority:-[2] mode:-[0] Criticality:-[0] exec_time:-[2] c_lo:-[4] c_hi:-[4]
+PID:-[1856] priority:-[3] mode:-[0] Criticality:-[1] exec_time:-[6] c_lo:-[4] c_hi:-[10]
+39332 P1 [pfp_schedule@litmus/sched_fpps.c:403]: Entering bailout mode
+
+bfund = [6]
+39339 P1 [pfp_schedule@litmus/sched_fpps.c:461]: Entering Normal mode
+
+PID:-[1858] priority:-[4] mode:-[0] Criticality:-[1] exec_time:-[6] c_lo:-[8] c_hi:-[8]
+PID:-[1855] priority:-[1] mode:-[0] Criticality:-[0] exec_time:-[8] c_lo:-[8] c_hi:-[8]
+PID:-[1857] priority:-[2] mode:-[0] Criticality:-[0] exec_time:-[1] c_lo:-[4] c_hi:-[4]
+PID:-[1855] priority:-[1] mode:-[0] Criticality:-[0] exec_time:-[8] c_lo:-[8] c_hi:-[8]
+PID:-[1857] priority:-[2] mode:-[0] Criticality:-[0] exec_time:-[4] c_lo:-[4] c_hi:-[4]
+PID:-[1856] priority:-[3] mode:-[0] Criticality:-[1] exec_time:-[4] c_lo:-[4] c_hi:-[10]
+PID:-[1858] priority:-[4] mode:-[0] Criticality:-[1] exec_time:-[4] c_lo:-[8] c_hi:-[8]
+PID:-[1855] priority:-[1] mode:-[0] Criticality:-[0] exec_time:-[8] c_lo:-[8] c_hi:-[8]
+PID:-[1858] priority:-[4] mode:-[0] Criticality:-[1] exec_time:-[1] c_lo:-[8] c_hi:-[8]
+PID:-[1857] priority:-[2] mode:-[0] Criticality:-[0] exec_time:-[1] c_lo:-[4] c_hi:-[4]
+PID:-[1858] priority:-[4] mode:-[0] Criticality:-[1] exec_time:-[2] c_lo:-[8] c_hi:-[8]
+PID:-[1855] priority:-[1] mode:-[0] Criticality:-[0] exec_time:-[1] c_lo:-[8] c_hi:-[8]
+PID:-[1856] priority:-[3] mode:-[0] Criticality:-[1] exec_time:-[4] c_lo:-[4] c_hi:-[10]
+PID:-[1857] priority:-[2] mode:-[0] Criticality:-[0] exec_time:-[3] c_lo:-[4] c_hi:-[4]
+PID:-[1858] priority:-[4] mode:-[0] Criticality:-[1] exec_time:-[1] c_lo:-[8] c_hi:-[8]
+PID:-[1855] priority:-[1] mode:-[0] Criticality:-[0] exec_time:-[3] c_lo:-[8] c_hi:-[8]
+PID:-[1857] priority:-[2] mode:-[0] Criticality:-[0] exec_time:-[4] c_lo:-[4] c_hi:-[4]
+PID:-[1855] priority:-[1] mode:-[0] Criticality:-[0] exec_time:-[6] c_lo:-[8] c_hi:-[8]
+PID:-[1856] priority:-[3] mode:-[0] Criticality:-[1] exec_time:-[2] c_lo:-[4] c_hi:-[10]
+PID:-[1858] priority:-[4] mode:-[0] Criticality:-[1] exec_time:-[6] c_lo:-[8] c_hi:-[8]
+PID:-[1857] priority:-[2] mode:-[0] Criticality:-[0] exec_time:-[4] c_lo:-[4] c_hi:-[4]
+PID:-[1855] priority:-[1] mode:-[0] Criticality:-[0] exec_time:-[8] c_lo:-[8] c_hi:-[8]
+PID:-[1858] priority:-[4] mode:-[0] Criticality:-[1] exec_time:-[6] c_lo:-[8] c_hi:-[8]
+PID:-[1857] priority:-[2] mode:-[0] Criticality:-[0] exec_time:-[3] c_lo:-[4] c_hi:-[4]
+PID:-[1855] priority:-[1] mode:-[0] Criticality:-[0] exec_time:-[5] c_lo:-[8] c_hi:-[8]
+PID:-[1856] priority:-[3] mode:-[0] Criticality:-[1] exec_time:-[2] c_lo:-[4] c_hi:-[10]
+PID:-[1858] priority:-[4] mode:-[0] Criticality:-[1] exec_time:-[3] c_lo:-[8] c_hi:-[8]
+PID:-[1857] priority:-[2] mode:-[0] Criticality:-[0] exec_time:-[2] c_lo:-[4] c_hi:-[4]
+PID:-[1855] priority:-[1] mode:-[0] Criticality:-[0] exec_time:-[1] c_lo:-[8] c_hi:-[8]
+PID:-[1857] priority:-[2] mode:-[0] Criticality:-[0] exec_time:-[1] c_lo:-[4] c_hi:-[4]
+PID:-[1855] priority:-[1] mode:-[0] Criticality:-[0] exec_time:-[6] c_lo:-[8] c_hi:-[8]
+PID:-[1856] priority:-[3] mode:-[0] Criticality:-[1] exec_time:-[9] c_lo:-[4] c_hi:-[10]
+40202 P1 [pfp_schedule@litmus/sched_fpps.c:403]: Entering bailout mode
+
+bfund = [6]
+PID:-[1858] priority:-[4] mode:-[1] Criticality:-[1] exec_time:-[5] c_lo:-[8] c_hi:-[8]
+bfund = [3]
+40225 P1 [pfp_schedule@litmus/sched_fpps.c:461]: Entering Normal mode
+
+PID:-[1855] priority:-[1] mode:-[0] Criticality:-[0] exec_time:-[5] c_lo:-[8] c_hi:-[8]
+PID:-[1857] priority:-[2] mode:-[0] Criticality:-[0] exec_time:-[2] c_lo:-[4] c_hi:-[4]
+PID:-[1858] priority:-[4] mode:-[0] Criticality:-[1] exec_time:-[2] c_lo:-[8] c_hi:-[8]
+PID:-[1855] priority:-[1] mode:-[0] Criticality:-[0] exec_time:-[7] c_lo:-[8] c_hi:-[8]
+PID:-[1857] priority:-[2] mode:-[0] Criticality:-[0] exec_time:-[2] c_lo:-[4] c_hi:-[4]
+PID:-[1856] priority:-[3] mode:-[0] Criticality:-[1] exec_time:-[3] c_lo:-[4] c_hi:-[10]
+PID:-[1858] priority:-[4] mode:-[0] Criticality:-[1] exec_time:-[2] c_lo:-[8] c_hi:-[8]
+PID:-[1855] priority:-[1] mode:-[0] Criticality:-[0] exec_time:-[5] c_lo:-[8] c_hi:-[8]
+PID:-[1857] priority:-[2] mode:-[0] Criticality:-[0] exec_time:-[3] c_lo:-[4] c_hi:-[4]
+PID:-[1855] priority:-[1] mode:-[0] Criticality:-[0] exec_time:-[6] c_lo:-[8] c_hi:-[8]
+PID:-[1857] priority:-[2] mode:-[0] Criticality:-[0] exec_time:-[4] c_lo:-[4] c_hi:-[4]
+PID:-[1856] priority:-[3] mode:-[0] Criticality:-[1] exec_time:-[10] c_lo:-[4] c_hi:-[10]
+40537 P1 [pfp_schedule@litmus/sched_fpps.c:403]: Entering bailout mode
+
+bfund = [6]
+40549 P1 [pfp_release_jobs@litmus/sched_fpps.c:198]: Low crit(1855) abandoned bfund-0
+
+40550 P1 [pfp_release_jobs@litmus/sched_fpps.c:203]: Entering recovery mode
+
+PID:-[1858] priority:-[4] mode:-[2] Criticality:-[1] exec_time:-[8] c_lo:-[8] c_hi:-[8]
+40563 P1 [job_completion@litmus/sched_fpps.c:123]: Entering to normal mode
+
+PID:-[1855] priority:-[1] mode:-[0] Criticality:-[0] exec_time:-[6] c_lo:-[8] c_hi:-[8]
+PID:-[1857] priority:-[2] mode:-[0] Criticality:-[0] exec_time:-[3] c_lo:-[4] c_hi:-[4]
+PID:-[1858] priority:-[4] mode:-[0] Criticality:-[1] exec_time:-[6] c_lo:-[8] c_hi:-[8]
+PID:-[1856] priority:-[3] mode:-[0] Criticality:-[1] exec_time:-[3] c_lo:-[4] c_hi:-[10]
+PID:-[1857] priority:-[2] mode:-[0] Criticality:-[0] exec_time:-[1] c_lo:-[4] c_hi:-[4]
+PID:-[1858] priority:-[4] mode:-[0] Criticality:-[1] exec_time:-[1] c_lo:-[8] c_hi:-[8]
+PID:-[1855] priority:-[1] mode:-[0] Criticality:-[0] exec_time:-[5] c_lo:-[8] c_hi:-[8]
+PID:-[1857] priority:-[2] mode:-[0] Criticality:-[0] exec_time:-[3] c_lo:-[4] c_hi:-[4]
+PID:-[1855] priority:-[1] mode:-[0] Criticality:-[0] exec_time:-[3] c_lo:-[8] c_hi:-[8]
+PID:-[1856] priority:-[3] mode:-[0] Criticality:-[1] exec_time:-[10] c_lo:-[4] c_hi:-[10]
+40868 P1 [pfp_schedule@litmus/sched_fpps.c:403]: Entering bailout mode
+
+bfund = [6]
+40880 P1 [pfp_release_jobs@litmus/sched_fpps.c:198]: Low crit(1857) abandoned bfund-2
+
+PID:-[1858] priority:-[4] mode:-[1] Criticality:-[1] exec_time:-[4] c_lo:-[8] c_hi:-[8]
+bfund = [0]
+40889 P1 [pfp_schedule@litmus/sched_fpps.c:374]: Entering recovery mode jk- 1858
+
+40894 P1 [job_completion@litmus/sched_fpps.c:123]: Entering to normal mode
+
+PID:-[1857] priority:-[2] mode:-[0] Criticality:-[0] exec_time:-[2] c_lo:-[4] c_hi:-[4]
+PID:-[1855] priority:-[1] mode:-[0] Criticality:-[0] exec_time:-[7] c_lo:-[8] c_hi:-[8]
+PID:-[1858] priority:-[4] mode:-[0] Criticality:-[1] exec_time:-[7] c_lo:-[8] c_hi:-[8]
+PID:-[1855] priority:-[1] mode:-[0] Criticality:-[0] exec_time:-[7] c_lo:-[8] c_hi:-[8]
+PID:-[1856] priority:-[3] mode:-[0] Criticality:-[1] exec_time:-[5] c_lo:-[4] c_hi:-[10]
+41017 P1 [pfp_schedule@litmus/sched_fpps.c:403]: Entering bailout mode
+
+bfund = [6]
+41024 P1 [pfp_schedule@litmus/sched_fpps.c:461]: Entering Normal mode
+
+PID:-[1858] priority:-[4] mode:-[0] Criticality:-[1] exec_time:-[1] c_lo:-[8] c_hi:-[8]
+PID:-[1857] priority:-[2] mode:-[0] Criticality:-[0] exec_time:-[2] c_lo:-[4] c_hi:-[4]
+PID:-[1858] priority:-[4] mode:-[0] Criticality:-[1] exec_time:-[1] c_lo:-[8] c_hi:-[8]
+PID:-[1855] priority:-[1] mode:-[0] Criticality:-[0] exec_time:-[6] c_lo:-[8] c_hi:-[8]
+PID:-[1857] priority:-[2] mode:-[0] Criticality:-[0] exec_time:-[2] c_lo:-[4] c_hi:-[4]
+PID:-[1855] priority:-[1] mode:-[0] Criticality:-[0] exec_time:-[7] c_lo:-[8] c_hi:-[8]
+PID:-[1856] priority:-[3] mode:-[0] Criticality:-[1] exec_time:-[9] c_lo:-[4] c_hi:-[10]
+41192 P1 [pfp_schedule@litmus/sched_fpps.c:403]: Entering bailout mode
+
+bfund = [6]
+41204 P1 [pfp_release_jobs@litmus/sched_fpps.c:198]: Low crit(1857) abandoned bfund-2
+
+PID:-[1858] priority:-[4] mode:-[1] Criticality:-[1] exec_time:-[7] c_lo:-[8] c_hi:-[8]
+bfund = [1]
+41227 P1 [pfp_release_jobs@litmus/sched_fpps.c:198]: Low crit(1855) abandoned bfund-0
+
+41228 P1 [pfp_release_jobs@litmus/sched_fpps.c:203]: Entering recovery mode
+
+PID:-[1857] priority:-[2] mode:-[2] Criticality:-[0] exec_time:-[4] c_lo:-[4] c_hi:-[4]
+PID:-[1855] priority:-[1] mode:-[2] Criticality:-[0] exec_time:-[2] c_lo:-[8] c_hi:-[8]
+PID:-[1858] priority:-[4] mode:-[2] Criticality:-[1] exec_time:-[6] c_lo:-[8] c_hi:-[8]
+41286 P1 [job_completion@litmus/sched_fpps.c:123]: Entering to normal mode
+
+PID:-[1856] priority:-[3] mode:-[0] Criticality:-[1] exec_time:-[9] c_lo:-[4] c_hi:-[10]
+41316 P1 [pfp_schedule@litmus/sched_fpps.c:403]: Entering bailout mode
+
+bfund = [6]
+41323 P1 [pfp_schedule@litmus/sched_fpps.c:461]: Entering Normal mode
+
+PID:-[1858] priority:-[4] mode:-[0] Criticality:-[1] exec_time:-[2] c_lo:-[8] c_hi:-[8]
+PID:-[1855] priority:-[1] mode:-[0] Criticality:-[0] exec_time:-[7] c_lo:-[8] c_hi:-[8]
+PID:-[1857] priority:-[2] mode:-[0] Criticality:-[0] exec_time:-[2] c_lo:-[4] c_hi:-[4]
+PID:-[1855] priority:-[1] mode:-[0] Criticality:-[0] exec_time:-[3] c_lo:-[8] c_hi:-[8]
+PID:-[1857] priority:-[2] mode:-[0] Criticality:-[0] exec_time:-[3] c_lo:-[4] c_hi:-[4]
+PID:-[1856] priority:-[3] mode:-[0] Criticality:-[1] exec_time:-[1] c_lo:-[4] c_hi:-[10]
+PID:-[1858] priority:-[4] mode:-[0] Criticality:-[1] exec_time:-[4] c_lo:-[8] c_hi:-[8]
+PID:-[1855] priority:-[1] mode:-[0] Criticality:-[0] exec_time:-[7] c_lo:-[8] c_hi:-[8]
+PID:-[1857] priority:-[2] mode:-[0] Criticality:-[0] exec_time:-[4] c_lo:-[4] c_hi:-[4]
+PID:-[1858] priority:-[4] mode:-[0] Criticality:-[1] exec_time:-[8] c_lo:-[8] c_hi:-[8]
+PID:-[1855] priority:-[1] mode:-[0] Criticality:-[0] exec_time:-[4] c_lo:-[8] c_hi:-[8]
+PID:-[1856] priority:-[3] mode:-[0] Criticality:-[1] exec_time:-[1] c_lo:-[4] c_hi:-[10]
+PID:-[1857] priority:-[2] mode:-[0] Criticality:-[0] exec_time:-[1] c_lo:-[4] c_hi:-[4]
+PID:-[1858] priority:-[4] mode:-[0] Criticality:-[1] exec_time:-[3] c_lo:-[8] c_hi:-[8]
+PID:-[1855] priority:-[1] mode:-[0] Criticality:-[0] exec_time:-[7] c_lo:-[8] c_hi:-[8]
+PID:-[1857] priority:-[2] mode:-[0] Criticality:-[0] exec_time:-[2] c_lo:-[4] c_hi:-[4]
+PID:-[1855] priority:-[1] mode:-[0] Criticality:-[0] exec_time:-[7] c_lo:-[8] c_hi:-[8]
+PID:-[1856] priority:-[3] mode:-[0] Criticality:-[1] exec_time:-[4] c_lo:-[4] c_hi:-[10]
+PID:-[1857] priority:-[2] mode:-[0] Criticality:-[0] exec_time:-[2] c_lo:-[4] c_hi:-[4]
+PID:-[1856] priority:-[3] mode:-[0] Criticality:-[1] exec_time:-[6] c_lo:-[4] c_hi:-[10]
+41882 P1 [pfp_schedule@litmus/sched_fpps.c:403]: Entering bailout mode
+
+bfund = [6]
+PID:-[1858] priority:-[4] mode:-[1] Criticality:-[1] exec_time:-[4] c_lo:-[8] c_hi:-[8]
+bfund = [2]
+41905 P1 [pfp_schedule@litmus/sched_fpps.c:461]: Entering Normal mode
+
+PID:-[1855] priority:-[1] mode:-[0] Criticality:-[0] exec_time:-[2] c_lo:-[8] c_hi:-[8]
+PID:-[1858] priority:-[4] mode:-[0] Criticality:-[1] exec_time:-[5] c_lo:-[8] c_hi:-[8]
+PID:-[1857] priority:-[2] mode:-[0] Criticality:-[0] exec_time:-[1] c_lo:-[4] c_hi:-[4]
+PID:-[1855] priority:-[1] mode:-[0] Criticality:-[0] exec_time:-[4] c_lo:-[8] c_hi:-[8]
+PID:-[1856] priority:-[3] mode:-[0] Criticality:-[1] exec_time:-[8] c_lo:-[4] c_hi:-[10]
+42051 P1 [pfp_schedule@litmus/sched_fpps.c:403]: Entering bailout mode
+
+bfund = [6]
+42058 P1 [pfp_schedule@litmus/sched_fpps.c:461]: Entering Normal mode
+
+PID:-[1857] priority:-[2] mode:-[0] Criticality:-[0] exec_time:-[2] c_lo:-[4] c_hi:-[4]
+PID:-[1858] priority:-[4] mode:-[0] Criticality:-[1] exec_time:-[1] c_lo:-[8] c_hi:-[8]
+PID:-[1855] priority:-[1] mode:-[0] Criticality:-[0] exec_time:-[4] c_lo:-[8] c_hi:-[8]
+PID:-[1857] priority:-[2] mode:-[0] Criticality:-[0] exec_time:-[1] c_lo:-[4] c_hi:-[4]
+PID:-[1855] priority:-[1] mode:-[0] Criticality:-[0] exec_time:-[4] c_lo:-[8] c_hi:-[8]
+PID:-[1856] priority:-[3] mode:-[0] Criticality:-[1] exec_time:-[7] c_lo:-[4] c_hi:-[10]
+42215 P1 [pfp_schedule@litmus/sched_fpps.c:403]: Entering bailout mode
+
+bfund = [6]
+PID:-[1858] priority:-[4] mode:-[1] Criticality:-[1] exec_time:-[3] c_lo:-[8] c_hi:-[8]
+bfund = [1]
+42238 P1 [pfp_schedule@litmus/sched_fpps.c:461]: Entering Normal mode
+
+PID:-[1857] priority:-[2] mode:-[0] Criticality:-[0] exec_time:-[1] c_lo:-[4] c_hi:-[4]
+PID:-[1855] priority:-[1] mode:-[0] Criticality:-[0] exec_time:-[3] c_lo:-[8] c_hi:-[8]
+PID:-[1858] priority:-[4] mode:-[0] Criticality:-[1] exec_time:-[2] c_lo:-[8] c_hi:-[8]
+PID:-[1857] priority:-[2] mode:-[0] Criticality:-[0] exec_time:-[1] c_lo:-[4] c_hi:-[4]
+PID:-[1855] priority:-[1] mode:-[0] Criticality:-[0] exec_time:-[4] c_lo:-[8] c_hi:-[8]
+PID:-[1857] priority:-[2] mode:-[0] Criticality:-[0] exec_time:-[2] c_lo:-[4] c_hi:-[4]
+PID:-[1856] priority:-[3] mode:-[0] Criticality:-[1] exec_time:-[9] c_lo:-[4] c_hi:-[10]
+42457 P1 [pfp_schedule@litmus/sched_fpps.c:403]: Entering bailout mode
+
+bfund = [6]
+42464 P1 [pfp_schedule@litmus/sched_fpps.c:461]: Entering Normal mode
+
+PID:-[1858] priority:-[4] mode:-[0] Criticality:-[1] exec_time:-[6] c_lo:-[8] c_hi:-[8]
+PID:-[1855] priority:-[1] mode:-[0] Criticality:-[0] exec_time:-[2] c_lo:-[8] c_hi:-[8]
+PID:-[1857] priority:-[2] mode:-[0] Criticality:-[0] exec_time:-[3] c_lo:-[4] c_hi:-[4]
+PID:-[1855] priority:-[1] mode:-[0] Criticality:-[0] exec_time:-[3] c_lo:-[8] c_hi:-[8]
+PID:-[1857] priority:-[2] mode:-[0] Criticality:-[0] exec_time:-[3] c_lo:-[4] c_hi:-[4]
+PID:-[1856] priority:-[3] mode:-[0] Criticality:-[1] exec_time:-[8] c_lo:-[4] c_hi:-[10]
+42613 P1 [pfp_schedule@litmus/sched_fpps.c:403]: Entering bailout mode
+
+bfund = [6]
+PID:-[1858] priority:-[4] mode:-[1] Criticality:-[1] exec_time:-[8] c_lo:-[8] c_hi:-[8]
+bfund = [6]
+42636 P1 [pfp_schedule@litmus/sched_fpps.c:461]: Entering Normal mode
+
+PID:-[1855] priority:-[1] mode:-[0] Criticality:-[0] exec_time:-[1] c_lo:-[8] c_hi:-[8]
+PID:-[1857] priority:-[2] mode:-[0] Criticality:-[0] exec_time:-[2] c_lo:-[4] c_hi:-[4]
+PID:-[1858] priority:-[4] mode:-[0] Criticality:-[1] exec_time:-[8] c_lo:-[8] c_hi:-[8]
+PID:-[1855] priority:-[1] mode:-[0] Criticality:-[0] exec_time:-[7] c_lo:-[8] c_hi:-[8]
+PID:-[1857] priority:-[2] mode:-[0] Criticality:-[0] exec_time:-[2] c_lo:-[4] c_hi:-[4]
+PID:-[1856] priority:-[3] mode:-[0] Criticality:-[1] exec_time:-[3] c_lo:-[4] c_hi:-[10]
+PID:-[1858] priority:-[4] mode:-[0] Criticality:-[1] exec_time:-[6] c_lo:-[8] c_hi:-[8]
+PID:-[1855] priority:-[1] mode:-[0] Criticality:-[0] exec_time:-[7] c_lo:-[8] c_hi:-[8]
+PID:-[1857] priority:-[2] mode:-[0] Criticality:-[0] exec_time:-[2] c_lo:-[4] c_hi:-[4]
+PID:-[1855] priority:-[1] mode:-[0] Criticality:-[0] exec_time:-[6] c_lo:-[8] c_hi:-[8]
+PID:-[1856] priority:-[3] mode:-[0] Criticality:-[1] exec_time:-[3] c_lo:-[4] c_hi:-[10]
+PID:-[1857] priority:-[2] mode:-[0] Criticality:-[0] exec_time:-[1] c_lo:-[4] c_hi:-[4]
+PID:-[1856] priority:-[3] mode:-[0] Criticality:-[1] exec_time:-[6] c_lo:-[4] c_hi:-[10]
+42989 P1 [pfp_schedule@litmus/sched_fpps.c:403]: Entering bailout mode
+
+bfund = [6]
+PID:-[1858] priority:-[4] mode:-[1] Criticality:-[1] exec_time:-[7] c_lo:-[8] c_hi:-[8]
+bfund = [5]
+43061 P1 [pfp_schedule@litmus/sched_fpps.c:461]: Entering Normal mode
+
+PID:-[1855] priority:-[1] mode:-[0] Criticality:-[0] exec_time:-[5] c_lo:-[8] c_hi:-[8]
+PID:-[1858] priority:-[4] mode:-[0] Criticality:-[1] exec_time:-[3] c_lo:-[8] c_hi:-[8]
+PID:-[1857] priority:-[2] mode:-[0] Criticality:-[0] exec_time:-[3] c_lo:-[4] c_hi:-[4]
+PID:-[1858] priority:-[4] mode:-[0] Criticality:-[1] exec_time:-[6] c_lo:-[8] c_hi:-[8]
+PID:-[1855] priority:-[1] mode:-[0] Criticality:-[0] exec_time:-[7] c_lo:-[8] c_hi:-[8]
+bfund = [6]
+43191 P1 [pfp_release_jobs@litmus/sched_fpps.c:198]: Low crit(1857) abandoned bfund-2
+
+PID:-[1856] priority:-[3] mode:-[1] Criticality:-[1] exec_time:-[7] c_lo:-[4] c_hi:-[10]
+bfund = [0]
+43200 P1 [pfp_schedule@litmus/sched_fpps.c:374]: Entering recovery mode jk- 1858
+
+43201 P1 [pfp_schedule@litmus/sched_fpps.c:384]: Entering bailout mode from recovery
+
+bfund = [6]
+bfund = [12]
+PID:-[1857] priority:-[2] mode:-[1] Criticality:-[0] exec_time:-[2] c_lo:-[4] c_hi:-[4]
+bfund = [10]
+PID:-[1858] priority:-[4] mode:-[1] Criticality:-[1] exec_time:-[2] c_lo:-[8] c_hi:-[8]
+bfund = [4]
+43251 P1 [pfp_schedule@litmus/sched_fpps.c:461]: Entering Normal mode
+
+PID:-[1855] priority:-[1] mode:-[0] Criticality:-[0] exec_time:-[8] c_lo:-[8] c_hi:-[8]
+PID:-[1855] priority:-[1] mode:-[0] Criticality:-[0] exec_time:-[2] c_lo:-[8] c_hi:-[8]
+PID:-[1856] priority:-[3] mode:-[0] Criticality:-[1] exec_time:-[7] c_lo:-[4] c_hi:-[10]
+43330 P1 [pfp_schedule@litmus/sched_fpps.c:403]: Entering bailout mode
+
+bfund = [6]
+PID:-[1858] priority:-[4] mode:-[1] Criticality:-[1] exec_time:-[2] c_lo:-[8] c_hi:-[8]
+bfund = [0]
+43353 P1 [pfp_schedule@litmus/sched_fpps.c:461]: Entering Normal mode
+
+PID:-[1857] priority:-[2] mode:-[0] Criticality:-[0] exec_time:-[2] c_lo:-[4] c_hi:-[4]
+PID:-[1855] priority:-[1] mode:-[0] Criticality:-[0] exec_time:-[1] c_lo:-[8] c_hi:-[8]
+PID:-[1858] priority:-[4] mode:-[0] Criticality:-[1] exec_time:-[4] c_lo:-[8] c_hi:-[8]
+PID:-[1857] priority:-[2] mode:-[0] Criticality:-[0] exec_time:-[3] c_lo:-[4] c_hi:-[4]
+PID:-[1855] priority:-[1] mode:-[0] Criticality:-[0] exec_time:-[7] c_lo:-[8] c_hi:-[8]
+PID:-[1856] priority:-[3] mode:-[0] Criticality:-[1] exec_time:-[2] c_lo:-[4] c_hi:-[10]
+PID:-[1858] priority:-[4] mode:-[0] Criticality:-[1] exec_time:-[5] c_lo:-[8] c_hi:-[8]
+PID:-[1857] priority:-[2] mode:-[0] Criticality:-[0] exec_time:-[1] c_lo:-[4] c_hi:-[4]
+PID:-[1858] priority:-[4] mode:-[0] Criticality:-[1] exec_time:-[6] c_lo:-[8] c_hi:-[8]
+PID:-[1855] priority:-[1] mode:-[0] Criticality:-[0] exec_time:-[2] c_lo:-[8] c_hi:-[8]
+PID:-[1858] priority:-[4] mode:-[0] Criticality:-[1] exec_time:-[8] c_lo:-[8] c_hi:-[8]
+PID:-[1855] priority:-[1] mode:-[0] Criticality:-[0] exec_time:-[3] c_lo:-[8] c_hi:-[8]
+PID:-[1857] priority:-[2] mode:-[0] Criticality:-[0] exec_time:-[4] c_lo:-[4] c_hi:-[4]
+PID:-[1856] priority:-[3] mode:-[0] Criticality:-[1] exec_time:-[2] c_lo:-[4] c_hi:-[10]
+PID:-[1858] priority:-[4] mode:-[0] Criticality:-[1] exec_time:-[8] c_lo:-[8] c_hi:-[8]
+PID:-[1855] priority:-[1] mode:-[0] Criticality:-[0] exec_time:-[6] c_lo:-[8] c_hi:-[8]
+PID:-[1857] priority:-[2] mode:-[0] Criticality:-[0] exec_time:-[2] c_lo:-[4] c_hi:-[4]
+PID:-[1858] priority:-[4] mode:-[0] Criticality:-[1] exec_time:-[8] c_lo:-[8] c_hi:-[8]
+PID:-[1855] priority:-[1] mode:-[0] Criticality:-[0] exec_time:-[4] c_lo:-[8] c_hi:-[8]
+PID:-[1857] priority:-[2] mode:-[0] Criticality:-[0] exec_time:-[2] c_lo:-[4] c_hi:-[4]
+PID:-[1856] priority:-[3] mode:-[0] Criticality:-[1] exec_time:-[9] c_lo:-[4] c_hi:-[10]
+43898 P1 [pfp_schedule@litmus/sched_fpps.c:403]: Entering bailout mode
+
+bfund = [6]
+43905 P1 [pfp_schedule@litmus/sched_fpps.c:461]: Entering Normal mode
+
+PID:-[1858] priority:-[4] mode:-[0] Criticality:-[1] exec_time:-[2] c_lo:-[8] c_hi:-[8]
+PID:-[1855] priority:-[1] mode:-[0] Criticality:-[0] exec_time:-[5] c_lo:-[8] c_hi:-[8]
+PID:-[1857] priority:-[2] mode:-[0] Criticality:-[0] exec_time:-[4] c_lo:-[4] c_hi:-[4]
+PID:-[1855] priority:-[1] mode:-[0] Criticality:-[0] exec_time:-[5] c_lo:-[8] c_hi:-[8]
+PID:-[1856] priority:-[3] mode:-[0] Criticality:-[1] exec_time:-[2] c_lo:-[4] c_hi:-[10]
+PID:-[1857] priority:-[2] mode:-[0] Criticality:-[0] exec_time:-[3] c_lo:-[4] c_hi:-[4]
+PID:-[1856] priority:-[3] mode:-[0] Criticality:-[1] exec_time:-[4] c_lo:-[4] c_hi:-[10]
+PID:-[1858] priority:-[4] mode:-[0] Criticality:-[1] exec_time:-[2] c_lo:-[8] c_hi:-[8]
+PID:-[1855] priority:-[1] mode:-[0] Criticality:-[0] exec_time:-[3] c_lo:-[8] c_hi:-[8]
+PID:-[1858] priority:-[4] mode:-[0] Criticality:-[1] exec_time:-[1] c_lo:-[8] c_hi:-[8]
+PID:-[1857] priority:-[2] mode:-[0] Criticality:-[0] exec_time:-[4] c_lo:-[4] c_hi:-[4]
+PID:-[1858] priority:-[4] mode:-[0] Criticality:-[1] exec_time:-[5] c_lo:-[8] c_hi:-[8]
+PID:-[1855] priority:-[1] mode:-[0] Criticality:-[0] exec_time:-[1] c_lo:-[8] c_hi:-[8]
+PID:-[1856] priority:-[3] mode:-[0] Criticality:-[1] exec_time:-[9] c_lo:-[4] c_hi:-[10]
+44254 P1 [pfp_schedule@litmus/sched_fpps.c:403]: Entering bailout mode
+
+bfund = [6]
+44261 P1 [pfp_schedule@litmus/sched_fpps.c:461]: Entering Normal mode
+
+PID:-[1857] priority:-[2] mode:-[0] Criticality:-[0] exec_time:-[3] c_lo:-[4] c_hi:-[4]
+PID:-[1858] priority:-[4] mode:-[0] Criticality:-[1] exec_time:-[7] c_lo:-[8] c_hi:-[8]
+PID:-[1855] priority:-[1] mode:-[0] Criticality:-[0] exec_time:-[3] c_lo:-[8] c_hi:-[8]
+PID:-[1858] priority:-[4] mode:-[0] Criticality:-[1] exec_time:-[8] c_lo:-[8] c_hi:-[8]
+PID:-[1857] priority:-[2] mode:-[0] Criticality:-[0] exec_time:-[1] c_lo:-[4] c_hi:-[4]
+PID:-[1855] priority:-[1] mode:-[0] Criticality:-[0] exec_time:-[3] c_lo:-[8] c_hi:-[8]
+PID:-[1856] priority:-[3] mode:-[0] Criticality:-[1] exec_time:-[3] c_lo:-[4] c_hi:-[10]
+PID:-[1858] priority:-[4] mode:-[0] Criticality:-[1] exec_time:-[5] c_lo:-[8] c_hi:-[8]
+PID:-[1857] priority:-[2] mode:-[0] Criticality:-[0] exec_time:-[1] c_lo:-[4] c_hi:-[4]
+PID:-[1855] priority:-[1] mode:-[0] Criticality:-[0] exec_time:-[5] c_lo:-[8] c_hi:-[8]
+PID:-[1858] priority:-[4] mode:-[0] Criticality:-[1] exec_time:-[7] c_lo:-[8] c_hi:-[8]
+PID:-[1857] priority:-[2] mode:-[0] Criticality:-[0] exec_time:-[1] c_lo:-[4] c_hi:-[4]
+PID:-[1856] priority:-[3] mode:-[0] Criticality:-[1] exec_time:-[3] c_lo:-[4] c_hi:-[10]
+PID:-[1858] priority:-[4] mode:-[0] Criticality:-[1] exec_time:-[3] c_lo:-[8] c_hi:-[8]
+PID:-[1857] priority:-[2] mode:-[0] Criticality:-[0] exec_time:-[1] c_lo:-[4] c_hi:-[4]
+PID:-[1858] priority:-[4] mode:-[0] Criticality:-[1] exec_time:-[4] c_lo:-[8] c_hi:-[8]
+PID:-[1857] priority:-[2] mode:-[0] Criticality:-[0] exec_time:-[3] c_lo:-[4] c_hi:-[4]
+PID:-[1858] priority:-[4] mode:-[0] Criticality:-[1] exec_time:-[5] c_lo:-[8] c_hi:-[8]
+PID:-[1857] priority:-[2] mode:-[0] Criticality:-[0] exec_time:-[2] c_lo:-[4] c_hi:-[4]
+PID:-[1858] priority:-[4] mode:-[0] Criticality:-[1] exec_time:-[1] c_lo:-[8] c_hi:-[8]
+PID:-[1856] priority:-[3] mode:-[0] Criticality:-[1] exec_time:-[1] c_lo:-[4] c_hi:-[10]
+PID:-[1857] priority:-[2] mode:-[0] Criticality:-[0] exec_time:-[1] c_lo:-[4] c_hi:-[4]
+PID:-[1856] priority:-[3] mode:-[0] Criticality:-[1] exec_time:-[3] c_lo:-[4] c_hi:-[10]
+PID:-[1858] priority:-[4] mode:-[0] Criticality:-[1] exec_time:-[8] c_lo:-[8] c_hi:-[8]
+PID:-[1857] priority:-[2] mode:-[0] Criticality:-[0] exec_time:-[4] c_lo:-[4] c_hi:-[4]
+PID:-[1856] priority:-[3] mode:-[0] Criticality:-[1] exec_time:-[5] c_lo:-[4] c_hi:-[10]
+45249 P1 [pfp_schedule@litmus/sched_fpps.c:403]: Entering bailout mode
+
+bfund = [6]
+45261 P1 [pfp_release_jobs@litmus/sched_fpps.c:198]: Low crit(1857) abandoned bfund-2
+
+PID:-[1858] priority:-[4] mode:-[1] Criticality:-[1] exec_time:-[1] c_lo:-[8] c_hi:-[8]
+bfund = [0]
+45270 P1 [pfp_schedule@litmus/sched_fpps.c:374]: Entering recovery mode jk- 1858
+
+45275 P1 [job_completion@litmus/sched_fpps.c:123]: Entering to normal mode
+
+PID:-[1858] priority:-[4] mode:-[0] Criticality:-[1] exec_time:-[4] c_lo:-[8] c_hi:-[8]
+PID:-[1856] priority:-[3] mode:-[0] Criticality:-[1] exec_time:-[6] c_lo:-[4] c_hi:-[10]
+45656 P1 [pfp_schedule@litmus/sched_fpps.c:403]: Entering bailout mode
+
+bfund = [6]
+45663 P1 [pfp_schedule@litmus/sched_fpps.c:461]: Entering Normal mode
+
+PID:-[1858] priority:-[4] mode:-[0] Criticality:-[1] exec_time:-[4] c_lo:-[8] c_hi:-[8]
+PID:-[1856] priority:-[3] mode:-[0] Criticality:-[1] exec_time:-[8] c_lo:-[4] c_hi:-[10]
+45722 P1 [pfp_schedule@litmus/sched_fpps.c:403]: Entering bailout mode
+
+bfund = [6]
+PID:-[1858] priority:-[4] mode:-[1] Criticality:-[1] exec_time:-[5] c_lo:-[8] c_hi:-[8]
+bfund = [3]
+45745 P1 [pfp_schedule@litmus/sched_fpps.c:461]: Entering Normal mode
+
+PID:-[1858] priority:-[4] mode:-[0] Criticality:-[1] exec_time:-[2] c_lo:-[8] c_hi:-[8]
+PID:-[1856] priority:-[3] mode:-[0] Criticality:-[1] exec_time:-[1] c_lo:-[4] c_hi:-[10]
+PID:-[1858] priority:-[4] mode:-[0] Criticality:-[1] exec_time:-[4] c_lo:-[8] c_hi:-[8]
+PID:-[1856] priority:-[3] mode:-[0] Criticality:-[1] exec_time:-[6] c_lo:-[4] c_hi:-[10]
+45862 P1 [pfp_schedule@litmus/sched_fpps.c:403]: Entering bailout mode
+
+bfund = [6]
+PID:-[1858] priority:-[4] mode:-[1] Criticality:-[1] exec_time:-[7] c_lo:-[8] c_hi:-[8]
+bfund = [5]
+45885 P1 [pfp_schedule@litmus/sched_fpps.c:461]: Entering Normal mode
+
+PID:-[1858] priority:-[4] mode:-[0] Criticality:-[1] exec_time:-[5] c_lo:-[8] c_hi:-[8]
+PID:-[1856] priority:-[3] mode:-[0] Criticality:-[1] exec_time:-[4] c_lo:-[4] c_hi:-[10]
+PID:-[1858] priority:-[4] mode:-[0] Criticality:-[1] exec_time:-[5] c_lo:-[8] c_hi:-[8]
+PID:-[1856] priority:-[3] mode:-[0] Criticality:-[1] exec_time:-[2] c_lo:-[4] c_hi:-[10]
+PID:-[1856] priority:-[3] mode:-[0] Criticality:-[1] exec_time:-[3] c_lo:-[4] c_hi:-[10]
+PID:-[1856] priority:-[3] mode:-[0] Criticality:-[1] exec_time:-[1] c_lo:-[4] c_hi:-[10]
+PID:-[1856] priority:-[3] mode:-[0] Criticality:-[1] exec_time:-[8] c_lo:-[4] c_hi:-[10]
+46390 P1 [pfp_schedule@litmus/sched_fpps.c:403]: Entering bailout mode
+
+bfund = [6]
+46397 P1 [pfp_schedule@litmus/sched_fpps.c:461]: Entering Normal mode
+
+PID:-[1856] priority:-[3] mode:-[0] Criticality:-[1] exec_time:-[4] c_lo:-[4] c_hi:-[10]
+PID:-[1856] priority:-[3] mode:-[0] Criticality:-[1] exec_time:-[4] c_lo:-[4] c_hi:-[10]
+PID:-[1856] priority:-[3] mode:-[0] Criticality:-[1] exec_time:-[9] c_lo:-[4] c_hi:-[10]
+46571 P1 [pfp_schedule@litmus/sched_fpps.c:403]: Entering bailout mode
+
+bfund = [6]
+46578 P1 [pfp_schedule@litmus/sched_fpps.c:461]: Entering Normal mode
+
+PID:-[1856] priority:-[3] mode:-[0] Criticality:-[1] exec_time:-[8] c_lo:-[4] c_hi:-[10]
+46631 P1 [pfp_schedule@litmus/sched_fpps.c:403]: Entering bailout mode
+
+bfund = [6]
+46638 P1 [pfp_schedule@litmus/sched_fpps.c:461]: Entering Normal mode
+
+PID:-[1856] priority:-[3] mode:-[0] Criticality:-[1] exec_time:-[9] c_lo:-[4] c_hi:-[10]
+46663 P1 [pfp_schedule@litmus/sched_fpps.c:403]: Entering bailout mode
+
+bfund = [6]
+46670 P1 [pfp_schedule@litmus/sched_fpps.c:461]: Entering Normal mode
+
+PID:-[1856] priority:-[3] mode:-[0] Criticality:-[1] exec_time:-[7] c_lo:-[4] c_hi:-[10]
+46695 P1 [pfp_schedule@litmus/sched_fpps.c:403]: Entering bailout mode
+
+bfund = [6]
+46702 P1 [pfp_schedule@litmus/sched_fpps.c:461]: Entering Normal mode
+
+PID:-[1856] priority:-[3] mode:-[0] Criticality:-[1] exec_time:-[4] c_lo:-[4] c_hi:-[10]
+PID:-[1856] priority:-[3] mode:-[0] Criticality:-[1] exec_time:-[2] c_lo:-[4] c_hi:-[10]
+PID:-[1856] priority:-[3] mode:-[0] Criticality:-[1] exec_time:-[5] c_lo:-[4] c_hi:-[10]
+46792 P1 [pfp_schedule@litmus/sched_fpps.c:403]: Entering bailout mode
+
+bfund = [6]
+46799 P1 [pfp_schedule@litmus/sched_fpps.c:461]: Entering Normal mode
+
+PID:-[1856] priority:-[3] mode:-[0] Criticality:-[1] exec_time:-[8] c_lo:-[4] c_hi:-[10]
+46824 P1 [pfp_schedule@litmus/sched_fpps.c:403]: Entering bailout mode
+
+bfund = [6]
+46831 P1 [pfp_schedule@litmus/sched_fpps.c:461]: Entering Normal mode
+
+PID:-[1856] priority:-[3] mode:-[0] Criticality:-[1] exec_time:-[3] c_lo:-[4] c_hi:-[10]
+PID:-[1856] priority:-[3] mode:-[0] Criticality:-[1] exec_time:-[3] c_lo:-[4] c_hi:-[10]
+PID:-[1856] priority:-[3] mode:-[0] Criticality:-[1] exec_time:-[10] c_lo:-[4] c_hi:-[10]
+46970 P1 [pfp_schedule@litmus/sched_fpps.c:403]: Entering bailout mode
+
+bfund = [6]
+46977 P1 [pfp_schedule@litmus/sched_fpps.c:461]: Entering Normal mode
+
+PID:-[1856] priority:-[3] mode:-[0] Criticality:-[1] exec_time:-[2] c_lo:-[4] c_hi:-[10]
+PID:-[1856] priority:-[3] mode:-[0] Criticality:-[1] exec_time:-[4] c_lo:-[4] c_hi:-[10]
+PID:-[1856] priority:-[3] mode:-[0] Criticality:-[1] exec_time:-[3] c_lo:-[4] c_hi:-[10]
+total bailout overhead	:- 1503892
+total lowCrit Abandoned	:- 6
+total tasks released     :- 244
+info:

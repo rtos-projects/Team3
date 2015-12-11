@@ -1,0 +1,18 @@
+#!/usr/bin/tclsh
+
+
+set fname [lindex $argv 0]
+set ip [open $fname r]
+seek $ip 0;
+puts "opening $fname..."
+set total_exec 0
+set zero 1
+
+while { ![eof $ip] } {
+   gets $ip data
+   if { [expr {$data + $zero}] > 0 } {
+       set total_exec [expr {$total_exec + $data}]
+   }
+   puts $data
+}
+puts "Total exec $total_exec"

@@ -1,0 +1,16 @@
+PID:-[1900] priority:-[1] mode:-[0] Criticality:-[1] exec_time:-[5] c_lo:-[5] c_hi:-[10]
+PID:-[1901] priority:-[2] mode:-[0] Criticality:-[0] exec_time:-[5] c_lo:-[5] c_hi:-[5]
+PID:-[1902] priority:-[3] mode:-[0] Criticality:-[1] exec_time:-[5] c_lo:-[5] c_hi:-[10]
+PID:-[1900] priority:-[1] mode:-[0] Criticality:-[1] exec_time:-[10] c_lo:-[5] c_hi:-[10]
+243718 P1 [pfp_schedule@litmus/sched_mcs.c:278]: Entering critical mode
+
+PID:-[1901] priority:-[2] mode:-[1] Criticality:-[0] exec_time:-[5] c_lo:-[5] c_hi:-[5]
+PID:-[1902] priority:-[3] mode:-[1] Criticality:-[1] exec_time:-[5] c_lo:-[5] c_hi:-[10]
+243765 P1 [pfp_schedule@litmus/sched_mcs.c:332]: Entering Normal mode
+
+total bailout overhead	:- 33809
+total lowCrit Abandoned	:- 0
+total tasks released     :- 9
+total hicrit deadline miss  :-0
+total lowcrit deadline miss :-0
+info:

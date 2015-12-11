@@ -1,0 +1,86 @@
+# !/bin/zsh
+#c_lo, period, c_hi, deadline
+
+
+opt="$1"
+
+case "$opt" in
+	"1")
+		#Test case 1, Normal - bailout - recovery - normal
+		echo "Running test case 1"
+		sudo ./rtspin -f test/01.csv -p 1 -C 0 -w -q 1 8 24 8 12 &
+		sudo ./rtspin -f test/02.csv -p 1 -C 0 -w -q 2 4 26 4 12 &
+		sudo ./rtspin -f test/03.csv -p 1 -C 1 -w -q 3 4 48 10 24 &
+		sudo ./rtspin -f test/04.csv -p 1 -C 1 -w -q 4 8 32 8 32 &
+		;;
+	"2")
+		#Test case 2. Normal - bailout -Normal
+		echo "Running test case 2"
+		sudo ./rtspin -f test/11.csv -p 1 -C 1 -w -q 1 5 40 10 40 &
+		sudo ./rtspin -f test/12.csv -p 1 -C 0 -w -q 2 5 40 5 40 &
+		sudo ./rtspin -f test/13.csv -p 1 -C 1 -w -q 3 5 40 10 40 &
+		;;
+	"3")
+		#Test case 3. Normal - bailout - recovery - bailout
+		echo "Running test case 3"
+		sudo ./rtspin -f test/21.csv -p 1 -C 1 -w -q 1 5 40 10 40 &
+		sudo ./rtspin -f test/22.csv -p 1 -C 0 -w -q 2 15 40 15 40 &
+		sudo ./rtspin -f test/23.csv -p 1 -C 1 -w -q 3 5 40 10 40 &
+		;;
+	"4")
+		echo "Generating 40 tasks"
+		sudo ./rtspin -f test/31.csv -p 1 -C 0 -w -q 1 8 24 8 24 &
+		sudo ./rtspin -f test/32.csv -p 1 -C 0 -w -q 2 4 26 4 26 &
+		sudo ./rtspin -f test/33.csv -p 1 -C 1 -w -q 3 4 48 10 48 &
+		sudo ./rtspin -f test/34.csv -p 1 -C 1 -w -q 4 8 32 8 32 &
+		;;
+	"5")
+		echo "Generating 80 tasks"
+		sudo ./rtspin -f test/41.csv -p 1 -C 0 -w -q 1 8 24 8 24 &
+		sudo ./rtspin -f test/42.csv -p 1 -C 0 -w -q 2 4 26 4 26 &
+		sudo ./rtspin -f test/43.csv -p 1 -C 1 -w -q 3 4 48 10 48 &
+		sudo ./rtspin -f test/44.csv -p 1 -C 1 -w -q 4 8 32 8 32 &
+		;;
+	"6")
+		echo "Generating 120 tasks"
+		sudo ./rtspin -f test/51.csv -p 1 -C 0 -w -q 1 8 24 8 24 &
+		sudo ./rtspin -f test/52.csv -p 1 -C 0 -w -q 2 4 26 4 26 &
+		sudo ./rtspin -f test/53.csv -p 1 -C 1 -w -q 3 4 48 10 48 &
+		sudo ./rtspin -f test/54.csv -p 1 -C 1 -w -q 4 8 32 8 32 &
+		;;
+	"7")
+		echo "Generating 1nedf_schedule@litmus/sched_edf_vd.c:407]: (rtspin/1894:2) picked next task from0 tasks"
+		sudo ./rtspin -f test/61.csv -p 1 -C 0 -w -q 1 8 24 8 24 &
+		sudo ./rtspin -f test/62.csv -p 1 -C 0 -w -q 2 4 26 4 26 &
+		sudo ./rtspin -f test/63.csv -p 1 -C 1 -w -q 3 4 48 10 48 &
+		sudo ./rtspin -f test/64.csv -p 1 -C 1 -w -q 4 8 32 8 32 &
+		;;
+	"8")
+		echo "Generating 200 tasks"
+		sudo ./rtspin -f test/71.csv -p 1 -C 0 -w -q 1 8 24 8 24 &
+		sudo ./rtspin -f test/72.csv -p 1 -C 0 -w -q 2 4 26 4 26 &
+		sudo ./rtspin -f test/73.csv -p 1 -C 1 -w -q 3 4 48 10 48 &
+		sudo ./rtspin -f test/74.csv -p 1 -C 1 -w -q 4 8 32 8 32 &
+		;;
+	"9")
+		echo "Generating 240 tasks"
+		sudo ./rtspin -f test/81.csv -p 1 -C 0 -w -q 1 8 24 8 24 &
+		sudo ./rtspin -f test/82.csv -p 1 -C 0 -w -q 2 4 26 4 26 &
+		sudo ./rtspin -f test/83.csv -p 1 -C 1 -w -q 3 4 48 10 48 &
+		sudo ./rtspin -f test/84.csv -p 1 -C 1 -w -q 4 8 32 8 32 &
+		;;
+	"10")
+		echo "Generating 280 tasks"
+		sudo ./rtspin -f test/91.csv -p 1 -C 0 -w -q 1 8 24 8 24 &
+		sudo ./rtspin -f test/92.csv -p 1 -C 0 -w -q 2 4 26 4 26 &
+		sudo ./rtspin -f test/93.csv -p 1 -C 1 -w -q 3 4 48 10 48 &
+		sudo ./rtspin -f test/94.csv -p 1 -C 1 -w -q 4 8 32 8 32 &
+		;;
+	"11")
+		echo "Generating 320 tasks"
+		sudo ./rtspin -f test/101.csv -p 1 -C 0 -w -q 1 8 24 8 24 &
+		sudo ./rtspin -f test/102.csv -p 1 -C 0 -w -q 2 4 26 4 26 &
+		sudo ./rtspin -f test/103.csv -p 1 -C 1 -w -q 3 4 48 10 48 &
+		sudo ./rtspin -f test/104.csv -p 1 -C 1 -w -q 4 8 32 8 32 &
+		;;
+esac

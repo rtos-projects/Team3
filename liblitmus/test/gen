@@ -1,0 +1,17 @@
+#!/bin/zsh
+
+#tclshh gen jobs min msx file
+
+set fname [lindex $argv 3]
+set min [lindex $argv 1]
+set max [lindex $argv 2]
+set jobs [lindex $argv 0]
+
+set op [open $fname w+]
+set maxFactor [expr [expr $max + 1] - $min]
+while { $jobs > 0 } {
+    set value [expr int([expr rand() * 100])]
+    set value [expr [expr $value % $maxFactor] + $min]
+    puts $op $value
+    set jobs [expr { $jobs - 1 } ]
+}

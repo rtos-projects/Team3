@@ -1,0 +1,881 @@
+10311 P1 [pfp_schedule@litmus/sched_fpps.c:233]: ;AN;Mode;0;critial;0;runtime;0;c_lo;0;c_hi;0
+10312 P1 [pfp_schedule@litmus/sched_fpps.c:244]: Task parameters : out_of_time 0, np 0, sleep 0, blocking 0 migrate 0, preempt 0
+10313 P1 [pfp_schedule@litmus/sched_fpps.c:341]: bailout_overhead : 3043
+10314 P1 [pfp_schedule@litmus/sched_fpps.c:357]: (null/0:0) picked next task from ready queue
+10315 P1 [pfp_schedule@litmus/sched_fpps.c:394]: becoming idle at 2695976565457, mode 0
+10316 P1 [pfp_schedule@litmus/sched_fpps.c:233]: ;AN;Mode;0;critial;0;runtime;0;c_lo;0;c_hi;0
+10317 P1 [pfp_schedule@litmus/sched_fpps.c:244]: Task parameters : out_of_time 0, np 0, sleep 0, blocking 0 migrate 0, preempt 0
+10318 P1 [pfp_schedule@litmus/sched_fpps.c:341]: bailout_overhead : 2147
+10319 P1 [pfp_schedule@litmus/sched_fpps.c:357]: (null/0:0) picked next task from ready queue
+10320 P1 [pfp_schedule@litmus/sched_fpps.c:394]: becoming idle at 2695976847200, mode 0
+10376 P1 [pfp_schedule@litmus/sched_fpps.c:233]: ;AN;Mode;0;critial;0;runtime;0;c_lo;0;c_hi;0
+10377 P1 [pfp_schedule@litmus/sched_fpps.c:244]: Task parameters : out_of_time 0, np 0, sleep 0, blocking 0 migrate 0, preempt 0
+10378 P1 [pfp_schedule@litmus/sched_fpps.c:341]: bailout_overhead : 2532
+10379 P1 [pfp_schedule@litmus/sched_fpps.c:357]: (null/0:0) picked next task from ready queue
+10380 P1 [pfp_schedule@litmus/sched_fpps.c:394]: becoming idle at 2696092075329, mode 0
+10381 P1 [pfp_schedule@litmus/sched_fpps.c:233]: ;AN;Mode;0;critial;0;runtime;0;c_lo;0;c_hi;0
+10382 P1 [pfp_schedule@litmus/sched_fpps.c:244]: Task parameters : out_of_time 0, np 0, sleep 0, blocking 0 migrate 0, preempt 0
+10383 P1 [pfp_schedule@litmus/sched_fpps.c:341]: bailout_overhead : 2020
+10384 P1 [pfp_schedule@litmus/sched_fpps.c:357]: (null/0:0) picked next task from ready queue
+10385 P1 [pfp_schedule@litmus/sched_fpps.c:394]: becoming idle at 2696092087599, mode 0
+10396 P1 [pfp_schedule@litmus/sched_fpps.c:233]: ;AN;Mode;0;critial;0;runtime;0;c_lo;0;c_hi;0
+10397 P1 [pfp_schedule@litmus/sched_fpps.c:244]: Task parameters : out_of_time 0, np 0, sleep 0, blocking 0 migrate 0, preempt 0
+10398 P1 [pfp_schedule@litmus/sched_fpps.c:341]: bailout_overhead : 6046
+10399 P1 [pfp_schedule@litmus/sched_fpps.c:357]: (null/0:0) picked next task from ready queue
+10400 P1 [pfp_schedule@litmus/sched_fpps.c:394]: becoming idle at 2696192180021, mode 0
+10404 P1 [pfp_schedule@litmus/sched_fpps.c:233]: ;AN;Mode;0;critial;0;runtime;0;c_lo;0;c_hi;0
+10406 P1 [pfp_schedule@litmus/sched_fpps.c:244]: Task parameters : out_of_time 0, np 0, sleep 0, blocking 0 migrate 0, preempt 0
+10408 P1 [pfp_schedule@litmus/sched_fpps.c:341]: bailout_overhead : 3286
+10409 P1 [pfp_schedule@litmus/sched_fpps.c:357]: (null/0:0) picked next task from ready queue
+10410 P1 [pfp_schedule@litmus/sched_fpps.c:394]: becoming idle at 2696192215752, mode 0
+10421 P1 [pfp_schedule@litmus/sched_fpps.c:233]: ;AN;Mode;0;critial;0;runtime;0;c_lo;0;c_hi;0
+10422 P1 [pfp_schedule@litmus/sched_fpps.c:244]: Task parameters : out_of_time 0, np 0, sleep 0, blocking 0 migrate 0, preempt 0
+10423 P1 [pfp_schedule@litmus/sched_fpps.c:341]: bailout_overhead : 3222
+10424 P1 [pfp_schedule@litmus/sched_fpps.c:357]: (null/0:0) picked next task from ready queue
+10425 P1 [pfp_schedule@litmus/sched_fpps.c:394]: becoming idle at 2696208099788, mode 0
+10426 P1 [pfp_schedule@litmus/sched_fpps.c:233]: ;AN;Mode;0;critial;0;runtime;0;c_lo;0;c_hi;0
+10427 P1 [pfp_schedule@litmus/sched_fpps.c:244]: Task parameters : out_of_time 0, np 0, sleep 0, blocking 0 migrate 0, preempt 0
+10428 P1 [pfp_schedule@litmus/sched_fpps.c:341]: bailout_overhead : 1917
+10429 P1 [pfp_schedule@litmus/sched_fpps.c:357]: (null/0:0) picked next task from ready queue
+10430 P1 [pfp_schedule@litmus/sched_fpps.c:394]: becoming idle at 2696208160996, mode 0
+632027 P1 [pfp_schedule@litmus/sched_fpps.c:233]: ;AN;Mode;0;critial;0;runtime;0;c_lo;0;c_hi;0
+632028 P1 [pfp_schedule@litmus/sched_fpps.c:244]: Task parameters : out_of_time 0, np 0, sleep 0, blocking 0 migrate 0, preempt 0
+632029 P1 [pfp_schedule@litmus/sched_fpps.c:341]: bailout_overhead : 3218
+632030 P1 [pfp_schedule@litmus/sched_fpps.c:357]: (null/0:0) picked next task from ready queue
+632031 P1 [pfp_schedule@litmus/sched_fpps.c:394]: becoming idle at 8274544452859, mode 0
+632032 P1 [pfp_schedule@litmus/sched_fpps.c:233]: ;AN;Mode;0;critial;0;runtime;0;c_lo;0;c_hi;0
+632033 P1 [pfp_schedule@litmus/sched_fpps.c:244]: Task parameters : out_of_time 0, np 0, sleep 0, blocking 0 migrate 0, preempt 0
+632034 P1 [pfp_schedule@litmus/sched_fpps.c:341]: bailout_overhead : 1860
+632035 P1 [pfp_schedule@litmus/sched_fpps.c:357]: (null/0:0) picked next task from ready queue
+632036 P1 [pfp_schedule@litmus/sched_fpps.c:394]: becoming idle at 8274544484062, mode 0
+632047 P1 [pfp_schedule@litmus/sched_fpps.c:233]: ;AN;Mode;0;critial;0;runtime;0;c_lo;0;c_hi;0
+632048 P1 [pfp_schedule@litmus/sched_fpps.c:244]: Task parameters : out_of_time 0, np 0, sleep 0, blocking 0 migrate 0, preempt 0
+632049 P1 [pfp_schedule@litmus/sched_fpps.c:341]: bailout_overhead : 2633
+632050 P1 [pfp_schedule@litmus/sched_fpps.c:357]: (null/0:0) picked next task from ready queue
+632051 P1 [pfp_schedule@litmus/sched_fpps.c:394]: becoming idle at 8274556154082, mode 0
+632052 P1 [pfp_schedule@litmus/sched_fpps.c:233]: ;AN;Mode;0;critial;0;runtime;0;c_lo;0;c_hi;0
+632053 P1 [pfp_schedule@litmus/sched_fpps.c:244]: Task parameters : out_of_time 0, np 0, sleep 0, blocking 0 migrate 0, preempt 0
+632054 P1 [pfp_schedule@litmus/sched_fpps.c:341]: bailout_overhead : 1909
+632055 P1 [pfp_schedule@litmus/sched_fpps.c:357]: (null/0:0) picked next task from ready queue
+632056 P1 [pfp_schedule@litmus/sched_fpps.c:394]: becoming idle at 8274556168181, mode 0
+632057 P1 [pfp_schedule@litmus/sched_fpps.c:233]: ;AN;Mode;0;critial;0;runtime;0;c_lo;0;c_hi;0
+632058 P1 [pfp_schedule@litmus/sched_fpps.c:244]: Task parameters : out_of_time 0, np 0, sleep 0, blocking 0 migrate 0, preempt 0
+632059 P1 [pfp_schedule@litmus/sched_fpps.c:341]: bailout_overhead : 1856
+632060 P1 [pfp_schedule@litmus/sched_fpps.c:357]: (null/0:0) picked next task from ready queue
+632061 P1 [pfp_schedule@litmus/sched_fpps.c:394]: becoming idle at 8274556181573, mode 0
+632072 P1 [pfp_schedule@litmus/sched_fpps.c:233]: ;AN;Mode;0;critial;0;runtime;0;c_lo;0;c_hi;0
+632073 P1 [pfp_schedule@litmus/sched_fpps.c:244]: Task parameters : out_of_time 0, np 0, sleep 0, blocking 0 migrate 0, preempt 0
+632074 P1 [pfp_schedule@litmus/sched_fpps.c:341]: bailout_overhead : 2562
+632075 P1 [pfp_schedule@litmus/sched_fpps.c:357]: (null/0:0) picked next task from ready queue
+632076 P1 [pfp_schedule@litmus/sched_fpps.c:394]: becoming idle at 8274568113490, mode 0
+632077 P1 [pfp_schedule@litmus/sched_fpps.c:233]: ;AN;Mode;0;critial;0;runtime;0;c_lo;0;c_hi;0
+632078 P1 [pfp_schedule@litmus/sched_fpps.c:244]: Task parameters : out_of_time 0, np 0, sleep 0, blocking 0 migrate 0, preempt 0
+632079 P1 [pfp_schedule@litmus/sched_fpps.c:341]: bailout_overhead : 1881
+632080 P1 [pfp_schedule@litmus/sched_fpps.c:357]: (null/0:0) picked next task from ready queue
+632081 P1 [pfp_schedule@litmus/sched_fpps.c:394]: becoming idle at 8274568129034, mode 0
+632092 P1 [pfp_schedule@litmus/sched_fpps.c:233]: ;AN;Mode;0;critial;0;runtime;0;c_lo;0;c_hi;0
+632093 P1 [pfp_schedule@litmus/sched_fpps.c:244]: Task parameters : out_of_time 0, np 0, sleep 0, blocking 0 migrate 0, preempt 0
+632094 P1 [pfp_schedule@litmus/sched_fpps.c:341]: bailout_overhead : 2523
+632095 P1 [pfp_schedule@litmus/sched_fpps.c:357]: (null/0:0) picked next task from ready queue
+632096 P1 [pfp_schedule@litmus/sched_fpps.c:394]: becoming idle at 8274580113999, mode 0
+632097 P1 [pfp_schedule@litmus/sched_fpps.c:233]: ;AN;Mode;0;critial;0;runtime;0;c_lo;0;c_hi;0
+632098 P1 [pfp_schedule@litmus/sched_fpps.c:244]: Task parameters : out_of_time 0, np 0, sleep 0, blocking 0 migrate 0, preempt 0
+632099 P1 [pfp_schedule@litmus/sched_fpps.c:341]: bailout_overhead : 1839
+632100 P1 [pfp_schedule@litmus/sched_fpps.c:357]: (null/0:0) picked next task from ready queue
+632101 P1 [pfp_schedule@litmus/sched_fpps.c:394]: becoming idle at 8274580128369, mode 0
+632102 P1 [pfp_schedule@litmus/sched_fpps.c:233]: ;AN;Mode;0;critial;0;runtime;0;c_lo;0;c_hi;0
+632103 P1 [pfp_schedule@litmus/sched_fpps.c:244]: Task parameters : out_of_time 0, np 0, sleep 0, blocking 0 migrate 0, preempt 0
+632104 P1 [pfp_schedule@litmus/sched_fpps.c:341]: bailout_overhead : 1824
+632105 P1 [pfp_schedule@litmus/sched_fpps.c:357]: (null/0:0) picked next task from ready queue
+632106 P1 [pfp_schedule@litmus/sched_fpps.c:394]: becoming idle at 8274580166530, mode 0
+632107 P1 [pfp_schedule@litmus/sched_fpps.c:233]: ;AN;Mode;0;critial;0;runtime;0;c_lo;0;c_hi;0
+632108 P1 [pfp_schedule@litmus/sched_fpps.c:244]: Task parameters : out_of_time 0, np 0, sleep 0, blocking 0 migrate 0, preempt 0
+632109 P1 [pfp_schedule@litmus/sched_fpps.c:341]: bailout_overhead : 1929
+632110 P1 [pfp_schedule@litmus/sched_fpps.c:357]: (null/0:0) picked next task from ready queue
+632111 P1 [pfp_schedule@litmus/sched_fpps.c:394]: becoming idle at 8274580204960, mode 0
+632132 P1 [pfp_schedule@litmus/sched_fpps.c:233]: ;AN;Mode;0;critial;0;runtime;0;c_lo;0;c_hi;0
+632133 P1 [pfp_schedule@litmus/sched_fpps.c:244]: Task parameters : out_of_time 0, np 0, sleep 0, blocking 0 migrate 0, preempt 0
+632134 P1 [pfp_schedule@litmus/sched_fpps.c:341]: bailout_overhead : 11348
+632135 P1 [pfp_schedule@litmus/sched_fpps.c:357]: (null/0:0) picked next task from ready queue
+632136 P1 [pfp_schedule@litmus/sched_fpps.c:394]: becoming idle at 8274592110488, mode 0
+632137 P1 [pfp_schedule@litmus/sched_fpps.c:233]: ;AN;Mode;0;critial;0;runtime;0;c_lo;0;c_hi;0
+632138 P1 [pfp_schedule@litmus/sched_fpps.c:244]: Task parameters : out_of_time 0, np 0, sleep 0, blocking 0 migrate 0, preempt 0
+632139 P1 [pfp_schedule@litmus/sched_fpps.c:341]: bailout_overhead : 1850
+632140 P1 [pfp_schedule@litmus/sched_fpps.c:357]: (null/0:0) picked next task from ready queue
+632141 P1 [pfp_schedule@litmus/sched_fpps.c:394]: becoming idle at 8274592124626, mode 0
+632147 P1 [pfp_schedule@litmus/sched_fpps.c:233]: ;AN;Mode;0;critial;0;runtime;0;c_lo;0;c_hi;0
+632148 P1 [pfp_schedule@litmus/sched_fpps.c:244]: Task parameters : out_of_time 0, np 0, sleep 0, blocking 0 migrate 0, preempt 0
+632149 P1 [pfp_schedule@litmus/sched_fpps.c:341]: bailout_overhead : 4123
+632150 P1 [pfp_schedule@litmus/sched_fpps.c:357]: (null/0:0) picked next task from ready queue
+632151 P1 [pfp_schedule@litmus/sched_fpps.c:394]: becoming idle at 8274904640649, mode 0
+632152 P1 [pfp_schedule@litmus/sched_fpps.c:233]: ;AN;Mode;0;critial;0;runtime;0;c_lo;0;c_hi;0
+632153 P1 [pfp_schedule@litmus/sched_fpps.c:244]: Task parameters : out_of_time 0, np 0, sleep 0, blocking 0 migrate 0, preempt 0
+632154 P1 [pfp_schedule@litmus/sched_fpps.c:341]: bailout_overhead : 3300
+632155 P1 [pfp_schedule@litmus/sched_fpps.c:357]: (null/0:0) picked next task from ready queue
+632156 P1 [pfp_schedule@litmus/sched_fpps.c:394]: becoming idle at 8274905324665, mode 0
+632312 P1 [pfp_schedule@litmus/sched_fpps.c:233]: ;AN;Mode;0;critial;0;runtime;0;c_lo;0;c_hi;0
+632313 P1 [pfp_schedule@litmus/sched_fpps.c:244]: Task parameters : out_of_time 0, np 0, sleep 0, blocking 0 migrate 0, preempt 0
+632314 P1 [pfp_schedule@litmus/sched_fpps.c:341]: bailout_overhead : 9564
+632315 P1 [pfp_schedule@litmus/sched_fpps.c:357]: (null/0:0) picked next task from ready queue
+632316 P1 [pfp_schedule@litmus/sched_fpps.c:394]: becoming idle at 8275692289273, mode 0
+632317 P1 [pfp_schedule@litmus/sched_fpps.c:233]: ;AN;Mode;0;critial;0;runtime;0;c_lo;0;c_hi;0
+632318 P1 [pfp_schedule@litmus/sched_fpps.c:244]: Task parameters : out_of_time 0, np 0, sleep 0, blocking 0 migrate 0, preempt 0
+632319 P1 [pfp_schedule@litmus/sched_fpps.c:341]: bailout_overhead : 6811
+632320 P1 [pfp_schedule@litmus/sched_fpps.c:357]: (null/0:0) picked next task from ready queue
+632321 P1 [pfp_schedule@litmus/sched_fpps.c:394]: becoming idle at 8275706246145, mode 0
+632330 P1 [pfp_schedule@litmus/sched_fpps.c:233]: ;AN;Mode;0;critial;0;runtime;0;c_lo;0;c_hi;0
+632333 P1 [pfp_schedule@litmus/sched_fpps.c:244]: Task parameters : out_of_time 0, np 0, sleep 0, blocking 0 migrate 0, preempt 0
+632334 P1 [pfp_schedule@litmus/sched_fpps.c:341]: bailout_overhead : 3100
+632335 P1 [pfp_schedule@litmus/sched_fpps.c:357]: (null/0:0) picked next task from ready queue
+632336 P1 [pfp_schedule@litmus/sched_fpps.c:394]: becoming idle at 8275707552624, mode 0
+632387 P1 [pfp_schedule@litmus/sched_fpps.c:233]: ;AN;Mode;0;critial;0;runtime;0;c_lo;0;c_hi;0
+632388 P1 [pfp_schedule@litmus/sched_fpps.c:244]: Task parameters : out_of_time 0, np 0, sleep 0, blocking 0 migrate 0, preempt 0
+632389 P1 [pfp_schedule@litmus/sched_fpps.c:341]: bailout_overhead : 2389
+632390 P1 [pfp_schedule@litmus/sched_fpps.c:357]: (null/0:0) picked next task from ready queue
+632391 P1 [pfp_schedule@litmus/sched_fpps.c:394]: becoming idle at 8275708357767, mode 0
+632527 P1 [pfp_schedule@litmus/sched_fpps.c:233]: ;AN;Mode;0;critial;0;runtime;0;c_lo;0;c_hi;0
+632528 P1 [pfp_schedule@litmus/sched_fpps.c:244]: Task parameters : out_of_time 0, np 0, sleep 0, blocking 0 migrate 0, preempt 0
+632529 P1 [pfp_schedule@litmus/sched_fpps.c:341]: bailout_overhead : 3722
+632530 P1 [pfp_schedule@litmus/sched_fpps.c:357]: (null/0:0) picked next task from ready queue
+632531 P1 [pfp_schedule@litmus/sched_fpps.c:394]: becoming idle at 8276092095276, mode 0
+632532 P1 [pfp_schedule@litmus/sched_fpps.c:233]: ;AN;Mode;0;critial;0;runtime;0;c_lo;0;c_hi;0
+632533 P1 [pfp_schedule@litmus/sched_fpps.c:244]: Task parameters : out_of_time 0, np 0, sleep 0, blocking 0 migrate 0, preempt 0
+632534 P1 [pfp_schedule@litmus/sched_fpps.c:341]: bailout_overhead : 2023
+632535 P1 [pfp_schedule@litmus/sched_fpps.c:357]: (null/0:0) picked next task from ready queue
+632536 P1 [pfp_schedule@litmus/sched_fpps.c:394]: becoming idle at 8276092113049, mode 0
+632554 P1 [pfp_schedule@litmus/sched_fpps.c:233]: ;AN;Mode;0;critial;0;runtime;0;c_lo;0;c_hi;0
+632557 P1 [pfp_schedule@litmus/sched_fpps.c:244]: Task parameters : out_of_time 0, np 0, sleep 0, blocking 0 migrate 0, preempt 0
+632559 P1 [pfp_schedule@litmus/sched_fpps.c:341]: bailout_overhead : 3296
+632560 P1 [pfp_schedule@litmus/sched_fpps.c:357]: (null/0:0) picked next task from ready queue
+632561 P1 [pfp_schedule@litmus/sched_fpps.c:394]: becoming idle at 8276108774900, mode 0
+632562 P1 [pfp_schedule@litmus/sched_fpps.c:233]: ;AN;Mode;0;critial;0;runtime;0;c_lo;0;c_hi;0
+632563 P1 [pfp_schedule@litmus/sched_fpps.c:244]: Task parameters : out_of_time 0, np 0, sleep 0, blocking 0 migrate 0, preempt 0
+632564 P1 [pfp_schedule@litmus/sched_fpps.c:341]: bailout_overhead : 2741
+632565 P1 [pfp_schedule@litmus/sched_fpps.c:357]: (null/0:0) picked next task from ready queue
+632566 P1 [pfp_schedule@litmus/sched_fpps.c:394]: becoming idle at 8276109216331, mode 0
+632592 P1 [pfp_schedule@litmus/sched_fpps.c:233]: ;AN;Mode;0;critial;0;runtime;0;c_lo;0;c_hi;0
+632593 P1 [pfp_schedule@litmus/sched_fpps.c:244]: Task parameters : out_of_time 0, np 0, sleep 0, blocking 0 migrate 0, preempt 0
+632594 P1 [pfp_schedule@litmus/sched_fpps.c:341]: bailout_overhead : 4794
+632595 P1 [pfp_schedule@litmus/sched_fpps.c:357]: (null/0:0) picked next task from ready queue
+632596 P1 [pfp_schedule@litmus/sched_fpps.c:394]: becoming idle at 8276159099427, mode 0
+632597 P1 [pfp_schedule@litmus/sched_fpps.c:233]: ;AN;Mode;0;critial;0;runtime;0;c_lo;0;c_hi;0
+632598 P1 [pfp_schedule@litmus/sched_fpps.c:244]: Task parameters : out_of_time 0, np 0, sleep 0, blocking 0 migrate 0, preempt 0
+632600 P1 [pfp_schedule@litmus/sched_fpps.c:341]: bailout_overhead : 2940
+632601 P1 [pfp_schedule@litmus/sched_fpps.c:357]: (null/0:0) picked next task from ready queue
+632603 P1 [pfp_schedule@litmus/sched_fpps.c:394]: becoming idle at 8276159160863, mode 0
+632622 P1 [pfp_schedule@litmus/sched_fpps.c:233]: ;AN;Mode;0;critial;0;runtime;0;c_lo;0;c_hi;0
+632623 P1 [pfp_schedule@litmus/sched_fpps.c:244]: Task parameters : out_of_time 0, np 0, sleep 0, blocking 0 migrate 0, preempt 0
+632624 P1 [pfp_schedule@litmus/sched_fpps.c:341]: bailout_overhead : 2870
+632625 P1 [pfp_schedule@litmus/sched_fpps.c:357]: (null/0:0) picked next task from ready queue
+632626 P1 [pfp_schedule@litmus/sched_fpps.c:394]: becoming idle at 8276168096451, mode 0
+632627 P1 [pfp_schedule@litmus/sched_fpps.c:233]: ;AN;Mode;0;critial;0;runtime;0;c_lo;0;c_hi;0
+632628 P1 [pfp_schedule@litmus/sched_fpps.c:244]: Task parameters : out_of_time 0, np 0, sleep 0, blocking 0 migrate 0, preempt 0
+632629 P1 [pfp_schedule@litmus/sched_fpps.c:341]: bailout_overhead : 2348
+632630 P1 [pfp_schedule@litmus/sched_fpps.c:357]: (null/0:0) picked next task from ready queue
+632631 P1 [pfp_schedule@litmus/sched_fpps.c:394]: becoming idle at 8276168111876, mode 0
+632632 P1 [pfp_schedule@litmus/sched_fpps.c:233]: ;AN;Mode;0;critial;0;runtime;0;c_lo;0;c_hi;0
+632633 P1 [pfp_schedule@litmus/sched_fpps.c:244]: Task parameters : out_of_time 0, np 0, sleep 0, blocking 0 migrate 0, preempt 0
+632634 P1 [pfp_schedule@litmus/sched_fpps.c:341]: bailout_overhead : 2585
+632635 P1 [pfp_schedule@litmus/sched_fpps.c:357]: (null/0:0) picked next task from ready queue
+632636 P1 [pfp_schedule@litmus/sched_fpps.c:394]: becoming idle at 8276168654573, mode 0
+632642 P1 [pfp_schedule@litmus/sched_fpps.c:233]: ;AN;Mode;0;critial;0;runtime;0;c_lo;0;c_hi;0
+632643 P1 [pfp_schedule@litmus/sched_fpps.c:244]: Task parameters : out_of_time 0, np 0, sleep 0, blocking 0 migrate 0, preempt 0
+632644 P1 [pfp_schedule@litmus/sched_fpps.c:341]: bailout_overhead : 2095
+632645 P1 [pfp_schedule@litmus/sched_fpps.c:357]: (null/0:0) picked next task from ready queue
+632646 P1 [pfp_schedule@litmus/sched_fpps.c:394]: becoming idle at 8276168677289, mode 0
+632652 P1 [pfp_schedule@litmus/sched_fpps.c:233]: ;AN;Mode;0;critial;0;runtime;0;c_lo;0;c_hi;0
+632653 P1 [pfp_schedule@litmus/sched_fpps.c:244]: Task parameters : out_of_time 0, np 0, sleep 0, blocking 0 migrate 0, preempt 0
+632654 P1 [pfp_schedule@litmus/sched_fpps.c:341]: bailout_overhead : 2254
+632655 P1 [pfp_schedule@litmus/sched_fpps.c:357]: (null/0:0) picked next task from ready queue
+632656 P1 [pfp_schedule@litmus/sched_fpps.c:394]: becoming idle at 8276168711662, mode 0
+632672 P1 [pfp_schedule@litmus/sched_fpps.c:233]: ;AN;Mode;0;critial;0;runtime;0;c_lo;0;c_hi;0
+632673 P1 [pfp_schedule@litmus/sched_fpps.c:244]: Task parameters : out_of_time 0, np 0, sleep 0, blocking 0 migrate 0, preempt 0
+632674 P1 [pfp_schedule@litmus/sched_fpps.c:341]: bailout_overhead : 2543
+632675 P1 [pfp_schedule@litmus/sched_fpps.c:357]: (null/0:0) picked next task from ready queue
+632676 P1 [pfp_schedule@litmus/sched_fpps.c:394]: becoming idle at 8276180080372, mode 0
+632677 P1 [pfp_schedule@litmus/sched_fpps.c:233]: ;AN;Mode;0;critial;0;runtime;0;c_lo;0;c_hi;0
+632678 P1 [pfp_schedule@litmus/sched_fpps.c:244]: Task parameters : out_of_time 0, np 0, sleep 0, blocking 0 migrate 0, preempt 0
+632679 P1 [pfp_schedule@litmus/sched_fpps.c:341]: bailout_overhead : 1918
+632680 P1 [pfp_schedule@litmus/sched_fpps.c:357]: (null/0:0) picked next task from ready queue
+632681 P1 [pfp_schedule@litmus/sched_fpps.c:394]: becoming idle at 8276180092449, mode 0
+632682 P1 [pfp_schedule@litmus/sched_fpps.c:233]: ;AN;Mode;0;critial;0;runtime;0;c_lo;0;c_hi;0
+632683 P1 [pfp_schedule@litmus/sched_fpps.c:244]: Task parameters : out_of_time 0, np 0, sleep 0, blocking 0 migrate 0, preempt 0
+632684 P1 [pfp_schedule@litmus/sched_fpps.c:341]: bailout_overhead : 1799
+632685 P1 [pfp_schedule@litmus/sched_fpps.c:357]: (null/0:0) picked next task from ready queue
+632686 P1 [pfp_schedule@litmus/sched_fpps.c:394]: becoming idle at 8276180102201, mode 0
+632687 P1 [pfp_schedule@litmus/sched_fpps.c:233]: ;AN;Mode;0;critial;0;runtime;0;c_lo;0;c_hi;0
+632688 P1 [pfp_schedule@litmus/sched_fpps.c:244]: Task parameters : out_of_time 0, np 0, sleep 0, blocking 0 migrate 0, preempt 0
+632689 P1 [pfp_schedule@litmus/sched_fpps.c:341]: bailout_overhead : 1790
+632690 P1 [pfp_schedule@litmus/sched_fpps.c:357]: (null/0:0) picked next task from ready queue
+632691 P1 [pfp_schedule@litmus/sched_fpps.c:394]: becoming idle at 8276180111841, mode 0
+632697 P1 [pfp_schedule@litmus/sched_fpps.c:233]: ;AN;Mode;0;critial;0;runtime;0;c_lo;0;c_hi;0
+632698 P1 [pfp_schedule@litmus/sched_fpps.c:244]: Task parameters : out_of_time 0, np 0, sleep 0, blocking 0 migrate 0, preempt 0
+632699 P1 [pfp_schedule@litmus/sched_fpps.c:341]: bailout_overhead : 4100
+632700 P1 [pfp_schedule@litmus/sched_fpps.c:357]: (null/0:0) picked next task from ready queue
+632701 P1 [pfp_schedule@litmus/sched_fpps.c:394]: becoming idle at 8276208110385, mode 0
+632702 P1 [pfp_schedule@litmus/sched_fpps.c:233]: ;AN;Mode;0;critial;0;runtime;0;c_lo;0;c_hi;0
+632703 P1 [pfp_schedule@litmus/sched_fpps.c:244]: Task parameters : out_of_time 0, np 0, sleep 0, blocking 0 migrate 0, preempt 0
+632704 P1 [pfp_schedule@litmus/sched_fpps.c:341]: bailout_overhead : 2611
+632705 P1 [pfp_schedule@litmus/sched_fpps.c:357]: (null/0:0) picked next task from ready queue
+632706 P1 [pfp_schedule@litmus/sched_fpps.c:394]: becoming idle at 8276208160104, mode 0
+632722 P1 [pfp_schedule@litmus/sched_fpps.c:233]: ;AN;Mode;0;critial;0;runtime;0;c_lo;0;c_hi;0
+632723 P1 [pfp_schedule@litmus/sched_fpps.c:244]: Task parameters : out_of_time 0, np 0, sleep 0, blocking 0 migrate 0, preempt 0
+632724 P1 [pfp_schedule@litmus/sched_fpps.c:341]: bailout_overhead : 4075
+632725 P1 [pfp_schedule@litmus/sched_fpps.c:357]: (null/0:0) picked next task from ready queue
+632726 P1 [pfp_schedule@litmus/sched_fpps.c:394]: becoming idle at 8276336842677, mode 0
+632727 P1 [pfp_schedule@litmus/sched_fpps.c:233]: ;AN;Mode;0;critial;0;runtime;0;c_lo;0;c_hi;0
+632728 P1 [pfp_schedule@litmus/sched_fpps.c:244]: Task parameters : out_of_time 0, np 0, sleep 0, blocking 0 migrate 0, preempt 0
+632729 P1 [pfp_schedule@litmus/sched_fpps.c:341]: bailout_overhead : 2433
+632730 P1 [pfp_schedule@litmus/sched_fpps.c:357]: (null/0:0) picked next task from ready queue
+632731 P1 [pfp_schedule@litmus/sched_fpps.c:394]: becoming idle at 8276336874956, mode 0
+632732 P1 [pfp_schedule@litmus/sched_fpps.c:233]: ;AN;Mode;0;critial;0;runtime;0;c_lo;0;c_hi;0
+632733 P1 [pfp_schedule@litmus/sched_fpps.c:244]: Task parameters : out_of_time 0, np 0, sleep 0, blocking 0 migrate 0, preempt 0
+632734 P1 [pfp_schedule@litmus/sched_fpps.c:341]: bailout_overhead : 2685
+632735 P1 [pfp_schedule@litmus/sched_fpps.c:357]: (null/0:0) picked next task from ready queue
+632736 P1 [pfp_schedule@litmus/sched_fpps.c:394]: becoming idle at 8276336894234, mode 0
+632742 P1 [pfp_schedule@litmus/sched_fpps.c:233]: ;AN;Mode;0;critial;0;runtime;0;c_lo;0;c_hi;0
+632743 P1 [pfp_schedule@litmus/sched_fpps.c:244]: Task parameters : out_of_time 0, np 0, sleep 0, blocking 0 migrate 0, preempt 0
+632744 P1 [pfp_schedule@litmus/sched_fpps.c:341]: bailout_overhead : 5865
+632745 P1 [pfp_schedule@litmus/sched_fpps.c:357]: (null/0:0) picked next task from ready queue
+632746 P1 [pfp_schedule@litmus/sched_fpps.c:394]: becoming idle at 8276348148370, mode 0
+632747 P1 [pfp_schedule@litmus/sched_fpps.c:233]: ;AN;Mode;0;critial;0;runtime;0;c_lo;0;c_hi;0
+632748 P1 [pfp_schedule@litmus/sched_fpps.c:244]: Task parameters : out_of_time 0, np 0, sleep 0, blocking 0 migrate 0, preempt 0
+632749 P1 [pfp_schedule@litmus/sched_fpps.c:341]: bailout_overhead : 2063
+632750 P1 [pfp_schedule@litmus/sched_fpps.c:357]: (null/0:0) picked next task from ready queue
+632751 P1 [pfp_schedule@litmus/sched_fpps.c:394]: becoming idle at 8276348171603, mode 0
+632752 P1 [pfp_schedule@litmus/sched_fpps.c:233]: ;AN;Mode;0;critial;0;runtime;0;c_lo;0;c_hi;0
+632753 P1 [pfp_schedule@litmus/sched_fpps.c:244]: Task parameters : out_of_time 0, np 0, sleep 0, blocking 0 migrate 0, preempt 0
+632754 P1 [pfp_schedule@litmus/sched_fpps.c:341]: bailout_overhead : 2712
+632755 P1 [pfp_schedule@litmus/sched_fpps.c:357]: (null/0:0) picked next task from ready queue
+632756 P1 [pfp_schedule@litmus/sched_fpps.c:394]: becoming idle at 8276348209599, mode 0
+632757 P1 [pfp_schedule@litmus/sched_fpps.c:233]: ;AN;Mode;0;critial;0;runtime;0;c_lo;0;c_hi;0
+632758 P1 [pfp_schedule@litmus/sched_fpps.c:244]: Task parameters : out_of_time 0, np 0, sleep 0, blocking 0 migrate 0, preempt 0
+632759 P1 [pfp_schedule@litmus/sched_fpps.c:341]: bailout_overhead : 1840
+632760 P1 [pfp_schedule@litmus/sched_fpps.c:357]: (null/0:0) picked next task from ready queue
+632761 P1 [pfp_schedule@litmus/sched_fpps.c:394]: becoming idle at 8276348223640, mode 0
+632762 P1 [pfp_schedule@litmus/sched_fpps.c:233]: ;AN;Mode;0;critial;0;runtime;0;c_lo;0;c_hi;0
+632763 P1 [pfp_schedule@litmus/sched_fpps.c:244]: Task parameters : out_of_time 0, np 0, sleep 0, blocking 0 migrate 0, preempt 0
+632764 P1 [pfp_schedule@litmus/sched_fpps.c:341]: bailout_overhead : 3740
+632765 P1 [pfp_schedule@litmus/sched_fpps.c:357]: (null/0:0) picked next task from ready queue
+632766 P1 [pfp_schedule@litmus/sched_fpps.c:394]: becoming idle at 8276360094924, mode 0
+632767 P1 [pfp_schedule@litmus/sched_fpps.c:233]: ;AN;Mode;0;critial;0;runtime;0;c_lo;0;c_hi;0
+632768 P1 [pfp_schedule@litmus/sched_fpps.c:244]: Task parameters : out_of_time 0, np 0, sleep 0, blocking 0 migrate 0, preempt 0
+632769 P1 [pfp_schedule@litmus/sched_fpps.c:341]: bailout_overhead : 1931
+632770 P1 [pfp_schedule@litmus/sched_fpps.c:357]: (null/0:0) picked next task from ready queue
+632771 P1 [pfp_schedule@litmus/sched_fpps.c:394]: becoming idle at 8276360109443, mode 0
+632772 P1 [pfp_schedule@litmus/sched_fpps.c:233]: ;AN;Mode;0;critial;0;runtime;0;c_lo;0;c_hi;0
+632773 P1 [pfp_schedule@litmus/sched_fpps.c:244]: Task parameters : out_of_time 0, np 0, sleep 0, blocking 0 migrate 0, preempt 0
+632774 P1 [pfp_schedule@litmus/sched_fpps.c:341]: bailout_overhead : 1972
+632775 P1 [pfp_schedule@litmus/sched_fpps.c:357]: (null/0:0) picked next task from ready queue
+632776 P1 [pfp_schedule@litmus/sched_fpps.c:394]: becoming idle at 8276360136759, mode 0
+632857 P1 [pfp_schedule@litmus/sched_fpps.c:233]: ;AN;Mode;0;critial;0;runtime;0;c_lo;0;c_hi;0
+632858 P1 [pfp_schedule@litmus/sched_fpps.c:244]: Task parameters : out_of_time 0, np 0, sleep 0, blocking 0 migrate 0, preempt 0
+632859 P1 [pfp_schedule@litmus/sched_fpps.c:341]: bailout_overhead : 3161
+632860 P1 [pfp_schedule@litmus/sched_fpps.c:357]: (null/0:0) picked next task from ready queue
+632861 P1 [pfp_schedule@litmus/sched_fpps.c:394]: becoming idle at 8276591775687, mode 0
+632862 P1 [pfp_schedule@litmus/sched_fpps.c:233]: ;AN;Mode;0;critial;0;runtime;0;c_lo;0;c_hi;0
+632863 P1 [pfp_schedule@litmus/sched_fpps.c:244]: Task parameters : out_of_time 0, np 0, sleep 0, blocking 0 migrate 0, preempt 0
+632864 P1 [pfp_schedule@litmus/sched_fpps.c:341]: bailout_overhead : 2896
+632865 P1 [pfp_schedule@litmus/sched_fpps.c:357]: (null/0:0) picked next task from ready queue
+632866 P1 [pfp_schedule@litmus/sched_fpps.c:394]: becoming idle at 8276591815624, mode 0
+632867 P1 [pfp_schedule@litmus/sched_fpps.c:233]: ;AN;Mode;0;critial;0;runtime;0;c_lo;0;c_hi;0
+632868 P1 [pfp_schedule@litmus/sched_fpps.c:244]: Task parameters : out_of_time 0, np 0, sleep 0, blocking 0 migrate 0, preempt 0
+632869 P1 [pfp_schedule@litmus/sched_fpps.c:341]: bailout_overhead : 2389
+632870 P1 [pfp_schedule@litmus/sched_fpps.c:357]: (null/0:0) picked next task from ready queue
+632871 P1 [pfp_schedule@litmus/sched_fpps.c:394]: becoming idle at 8276591870852, mode 0
+632887 P1 [pfp_schedule@litmus/sched_fpps.c:233]: ;AN;Mode;0;critial;0;runtime;0;c_lo;0;c_hi;0
+632888 P1 [pfp_schedule@litmus/sched_fpps.c:244]: Task parameters : out_of_time 0, np 0, sleep 0, blocking 0 migrate 0, preempt 0
+632889 P1 [pfp_schedule@litmus/sched_fpps.c:341]: bailout_overhead : 2874
+632890 P1 [pfp_schedule@litmus/sched_fpps.c:357]: (null/0:0) picked next task from ready queue
+632891 P1 [pfp_schedule@litmus/sched_fpps.c:394]: becoming idle at 8276592123034, mode 0
+632892 P1 [pfp_schedule@litmus/sched_fpps.c:233]: ;AN;Mode;0;critial;0;runtime;0;c_lo;0;c_hi;0
+632893 P1 [pfp_schedule@litmus/sched_fpps.c:244]: Task parameters : out_of_time 0, np 0, sleep 0, blocking 0 migrate 0, preempt 0
+632894 P1 [pfp_schedule@litmus/sched_fpps.c:341]: bailout_overhead : 2144
+632895 P1 [pfp_schedule@litmus/sched_fpps.c:357]: (null/0:0) picked next task from ready queue
+632896 P1 [pfp_schedule@litmus/sched_fpps.c:394]: becoming idle at 8276592360967, mode 0
+632897 P1 [pfp_schedule@litmus/sched_fpps.c:233]: ;AN;Mode;0;critial;0;runtime;0;c_lo;0;c_hi;0
+632898 P1 [pfp_schedule@litmus/sched_fpps.c:244]: Task parameters : out_of_time 0, np 0, sleep 0, blocking 0 migrate 0, preempt 0
+632899 P1 [pfp_schedule@litmus/sched_fpps.c:341]: bailout_overhead : 1892
+632900 P1 [pfp_schedule@litmus/sched_fpps.c:357]: (null/0:0) picked next task from ready queue
+632901 P1 [pfp_schedule@litmus/sched_fpps.c:394]: becoming idle at 8276592370072, mode 0
+632902 P1 [do_release_ts@litmus/sync.c:97]: <<<<<< synchronous task system release >>>>>>
+632903 P1 [try_to_wake_up@kernel/sched/core.c:1511]: (rtspin/1954:1) try_to_wake_up() state:1
+632904 P1 [pfp_task_wake_up@litmus/sched_fpps.c:450]: (rtspin/1954:1) wake_up at 8276592713708
+632905 P1 [requeue@litmus/sched_fpps.c:161]: (rtspin/1954:2) requeing task. Setting completed flag
+632906 P1 [pfp_task_wake_up@litmus/sched_fpps.c:474]: (rtspin/1954:2) wake up done
+632907 P1 [try_to_wake_up@kernel/sched/core.c:1568]: (rtspin/1954:2) try_to_wake_up() done state:0
+632908 P1 [pfp_schedule@litmus/sched_fpps.c:233]: ;AN;Mode;0;critial;0;runtime;0;c_lo;0;c_hi;0
+632909 P1 [pfp_schedule@litmus/sched_fpps.c:244]: Task parameters : out_of_time 0, np 0, sleep 0, blocking 0 migrate 0, preempt 1
+632910 P1 [pfp_schedule@litmus/sched_fpps.c:341]: bailout_overhead : 1798
+632911 P1 [pfp_schedule@litmus/sched_fpps.c:357]: (rtspin/1954:2) picked next task from ready queue
+632912 P1 [pfp_schedule@litmus/sched_fpps.c:386]: (rtspin/1954:2) scheduled at 8276592724437
+632913 P1 [pfp_schedule@litmus/sched_fpps.c:233]: ;AN;Mode;0;critial;1;runtime;0;c_lo;10;c_hi;50
+632914 P1 [pfp_schedule@litmus/sched_fpps.c:244]: Task parameters : out_of_time 0, np 0, sleep 1, blocking 0 migrate 0, preempt 0
+632915 P1 [pfp_schedule@litmus/sched_fpps.c:270]: (rtspin/1954:2) Job completes
+632916 P1 [job_completion@litmus/sched_fpps.c:174]: (rtspin/1954:2) job_completion()
+632917 P1 [job_completion@litmus/sched_fpps.c:191]: ;AN;end
+632918 P1 [job_completion@litmus/sched_fpps.c:193]: bailout_overhead : 962
+632919 P1 [prepare_for_next_period@litmus/jobs.c:34]: (rtspin/1954:2) sporadic release at 8277592000000
+632920 P1 [pfp_schedule@litmus/sched_fpps.c:276]: (rtspin/1954:3) deadline 8277692000000, now 8276592736985
+632921 P1 [pfp_schedule@litmus/sched_fpps.c:341]: bailout_overhead : 3242
+632922 P1 [requeue@litmus/sched_fpps.c:161]: (rtspin/1954:3) requeing task. Setting completed flag
+632923 P1 [__add_release@litmus/rt_domain.c:348]: (rtspin/1954:3) add_release(), rel=8277592000000
+632924 P1 [pfp_schedule@litmus/sched_fpps.c:357]: (null/0:0) picked next task from ready queue
+632925 P1 [pfp_schedule@litmus/sched_fpps.c:394]: becoming idle at 8276592743401, mode 0
+632926 P1 [pfp_schedule@litmus/sched_fpps.c:233]: ;AN;Mode;0;critial;0;runtime;0;c_lo;0;c_hi;0
+632927 P1 [pfp_schedule@litmus/sched_fpps.c:244]: Task parameters : out_of_time 0, np 0, sleep 0, blocking 0 migrate 0, preempt 0
+632928 P1 [pfp_schedule@litmus/sched_fpps.c:341]: bailout_overhead : 1898
+632929 P1 [pfp_schedule@litmus/sched_fpps.c:357]: (null/0:0) picked next task from ready queue
+632930 P1 [pfp_schedule@litmus/sched_fpps.c:394]: becoming idle at 8276592796263, mode 0
+632931 P1 [pfp_schedule@litmus/sched_fpps.c:233]: ;AN;Mode;0;critial;0;runtime;0;c_lo;0;c_hi;0
+632932 P1 [pfp_schedule@litmus/sched_fpps.c:244]: Task parameters : out_of_time 0, np 0, sleep 0, blocking 0 migrate 0, preempt 0
+632933 P1 [pfp_schedule@litmus/sched_fpps.c:341]: bailout_overhead : 2384
+632934 P1 [pfp_schedule@litmus/sched_fpps.c:357]: (null/0:0) picked next task from ready queue
+632935 P1 [pfp_schedule@litmus/sched_fpps.c:394]: becoming idle at 8276592818376, mode 0
+632936 P1 [pfp_schedule@litmus/sched_fpps.c:233]: ;AN;Mode;0;critial;0;runtime;0;c_lo;0;c_hi;0
+632937 P1 [pfp_schedule@litmus/sched_fpps.c:244]: Task parameters : out_of_time 0, np 0, sleep 0, blocking 0 migrate 0, preempt 0
+632938 P1 [pfp_schedule@litmus/sched_fpps.c:341]: bailout_overhead : 2544
+632939 P1 [pfp_schedule@litmus/sched_fpps.c:357]: (null/0:0) picked next task from ready queue
+632940 P1 [pfp_schedule@litmus/sched_fpps.c:394]: becoming idle at 8276592831822, mode 0
+632941 P1 [pfp_schedule@litmus/sched_fpps.c:233]: ;AN;Mode;0;critial;0;runtime;0;c_lo;0;c_hi;0
+632943 P1 [pfp_schedule@litmus/sched_fpps.c:244]: Task parameters : out_of_time 0, np 0, sleep 0, blocking 0 migrate 0, preempt 0
+632945 P1 [pfp_schedule@litmus/sched_fpps.c:341]: bailout_overhead : 2609
+632946 P1 [pfp_schedule@litmus/sched_fpps.c:357]: (null/0:0) picked next task from ready queue
+632948 P1 [pfp_schedule@litmus/sched_fpps.c:394]: becoming idle at 8276592844082, mode 0
+632951 P1 [pfp_schedule@litmus/sched_fpps.c:233]: ;AN;Mode;0;critial;0;runtime;0;c_lo;0;c_hi;0
+632952 P1 [pfp_schedule@litmus/sched_fpps.c:244]: Task parameters : out_of_time 0, np 0, sleep 0, blocking 0 migrate 0, preempt 0
+632953 P1 [pfp_schedule@litmus/sched_fpps.c:341]: bailout_overhead : 3078
+632954 P1 [pfp_schedule@litmus/sched_fpps.c:357]: (null/0:0) picked next task from ready queue
+632955 P1 [pfp_schedule@litmus/sched_fpps.c:394]: becoming idle at 8276592923472, mode 0
+633001 P1 [pfp_schedule@litmus/sched_fpps.c:233]: ;AN;Mode;0;critial;0;runtime;0;c_lo;0;c_hi;0
+633002 P1 [pfp_schedule@litmus/sched_fpps.c:244]: Task parameters : out_of_time 0, np 0, sleep 0, blocking 0 migrate 0, preempt 0
+633003 P1 [pfp_schedule@litmus/sched_fpps.c:341]: bailout_overhead : 2507
+633004 P1 [pfp_schedule@litmus/sched_fpps.c:357]: (null/0:0) picked next task from ready queue
+633005 P1 [pfp_schedule@litmus/sched_fpps.c:394]: becoming idle at 8276600072474, mode 0
+633006 P1 [pfp_schedule@litmus/sched_fpps.c:233]: ;AN;Mode;0;critial;0;runtime;0;c_lo;0;c_hi;0
+633007 P1 [pfp_schedule@litmus/sched_fpps.c:244]: Task parameters : out_of_time 0, np 0, sleep 0, blocking 0 migrate 0, preempt 0
+633008 P1 [pfp_schedule@litmus/sched_fpps.c:341]: bailout_overhead : 1803
+633009 P1 [pfp_schedule@litmus/sched_fpps.c:357]: (null/0:0) picked next task from ready queue
+633010 P1 [pfp_schedule@litmus/sched_fpps.c:394]: becoming idle at 8276600084177, mode 0
+633011 P1 [pfp_schedule@litmus/sched_fpps.c:233]: ;AN;Mode;0;critial;0;runtime;0;c_lo;0;c_hi;0
+633012 P1 [pfp_schedule@litmus/sched_fpps.c:244]: Task parameters : out_of_time 0, np 0, sleep 0, blocking 0 migrate 0, preempt 0
+633013 P1 [pfp_schedule@litmus/sched_fpps.c:341]: bailout_overhead : 2070
+633014 P1 [pfp_schedule@litmus/sched_fpps.c:357]: (null/0:0) picked next task from ready queue
+633015 P1 [pfp_schedule@litmus/sched_fpps.c:394]: becoming idle at 8276600094884, mode 0
+633016 P1 [pfp_schedule@litmus/sched_fpps.c:233]: ;AN;Mode;0;critial;0;runtime;0;c_lo;0;c_hi;0
+633017 P1 [pfp_schedule@litmus/sched_fpps.c:244]: Task parameters : out_of_time 0, np 0, sleep 0, blocking 0 migrate 0, preempt 0
+633018 P1 [pfp_schedule@litmus/sched_fpps.c:341]: bailout_overhead : 2497
+633019 P1 [pfp_schedule@litmus/sched_fpps.c:357]: (null/0:0) picked next task from ready queue
+633020 P1 [pfp_schedule@litmus/sched_fpps.c:394]: becoming idle at 8276612075032, mode 0
+633021 P1 [pfp_schedule@litmus/sched_fpps.c:233]: ;AN;Mode;0;critial;0;runtime;0;c_lo;0;c_hi;0
+633022 P1 [pfp_schedule@litmus/sched_fpps.c:244]: Task parameters : out_of_time 0, np 0, sleep 0, blocking 0 migrate 0, preempt 0
+633023 P1 [pfp_schedule@litmus/sched_fpps.c:341]: bailout_overhead : 1822
+633024 P1 [pfp_schedule@litmus/sched_fpps.c:357]: (null/0:0) picked next task from ready queue
+633025 P1 [pfp_schedule@litmus/sched_fpps.c:394]: becoming idle at 8276612086471, mode 0
+633026 P1 [pfp_schedule@litmus/sched_fpps.c:233]: ;AN;Mode;0;critial;0;runtime;0;c_lo;0;c_hi;0
+633027 P1 [pfp_schedule@litmus/sched_fpps.c:244]: Task parameters : out_of_time 0, np 0, sleep 0, blocking 0 migrate 0, preempt 0
+633028 P1 [pfp_schedule@litmus/sched_fpps.c:341]: bailout_overhead : 1816
+633029 P1 [pfp_schedule@litmus/sched_fpps.c:357]: (null/0:0) picked next task from ready queue
+633030 P1 [pfp_schedule@litmus/sched_fpps.c:394]: becoming idle at 8276612097242, mode 0
+633031 P1 [pfp_schedule@litmus/sched_fpps.c:233]: ;AN;Mode;0;critial;0;runtime;0;c_lo;0;c_hi;0
+633032 P1 [pfp_schedule@litmus/sched_fpps.c:244]: Task parameters : out_of_time 0, np 0, sleep 0, blocking 0 migrate 0, preempt 0
+633033 P1 [pfp_schedule@litmus/sched_fpps.c:341]: bailout_overhead : 2492
+633034 P1 [pfp_schedule@litmus/sched_fpps.c:357]: (null/0:0) picked next task from ready queue
+633035 P1 [pfp_schedule@litmus/sched_fpps.c:394]: becoming idle at 8276624074466, mode 0
+633036 P1 [pfp_schedule@litmus/sched_fpps.c:233]: ;AN;Mode;0;critial;0;runtime;0;c_lo;0;c_hi;0
+633037 P1 [pfp_schedule@litmus/sched_fpps.c:244]: Task parameters : out_of_time 0, np 0, sleep 0, blocking 0 migrate 0, preempt 0
+633038 P1 [pfp_schedule@litmus/sched_fpps.c:341]: bailout_overhead : 1833
+633039 P1 [pfp_schedule@litmus/sched_fpps.c:357]: (null/0:0) picked next task from ready queue
+633040 P1 [pfp_schedule@litmus/sched_fpps.c:394]: becoming idle at 8276624085637, mode 0
+633041 P1 [pfp_schedule@litmus/sched_fpps.c:233]: ;AN;Mode;0;critial;0;runtime;0;c_lo;0;c_hi;0
+633042 P1 [pfp_schedule@litmus/sched_fpps.c:244]: Task parameters : out_of_time 0, np 0, sleep 0, blocking 0 migrate 0, preempt 0
+633043 P1 [pfp_schedule@litmus/sched_fpps.c:341]: bailout_overhead : 1803
+633044 P1 [pfp_schedule@litmus/sched_fpps.c:357]: (null/0:0) picked next task from ready queue
+633045 P1 [pfp_schedule@litmus/sched_fpps.c:394]: becoming idle at 8276624098063, mode 0
+633046 P1 [pfp_schedule@litmus/sched_fpps.c:233]: ;AN;Mode;0;critial;0;runtime;0;c_lo;0;c_hi;0
+633047 P1 [pfp_schedule@litmus/sched_fpps.c:244]: Task parameters : out_of_time 0, np 0, sleep 0, blocking 0 migrate 0, preempt 0
+633048 P1 [pfp_schedule@litmus/sched_fpps.c:341]: bailout_overhead : 2514
+633049 P1 [pfp_schedule@litmus/sched_fpps.c:357]: (null/0:0) picked next task from ready queue
+633050 P1 [pfp_schedule@litmus/sched_fpps.c:394]: becoming idle at 8276636074498, mode 0
+633051 P1 [pfp_schedule@litmus/sched_fpps.c:233]: ;AN;Mode;0;critial;0;runtime;0;c_lo;0;c_hi;0
+633052 P1 [pfp_schedule@litmus/sched_fpps.c:244]: Task parameters : out_of_time 0, np 0, sleep 0, blocking 0 migrate 0, preempt 0
+633053 P1 [pfp_schedule@litmus/sched_fpps.c:341]: bailout_overhead : 1794
+633054 P1 [pfp_schedule@litmus/sched_fpps.c:357]: (null/0:0) picked next task from ready queue
+633055 P1 [pfp_schedule@litmus/sched_fpps.c:394]: becoming idle at 8276636085267, mode 0
+633056 P1 [pfp_schedule@litmus/sched_fpps.c:233]: ;AN;Mode;0;critial;0;runtime;0;c_lo;0;c_hi;0
+633057 P1 [pfp_schedule@litmus/sched_fpps.c:244]: Task parameters : out_of_time 0, np 0, sleep 0, blocking 0 migrate 0, preempt 0
+633058 P1 [pfp_schedule@litmus/sched_fpps.c:341]: bailout_overhead : 1907
+633059 P1 [pfp_schedule@litmus/sched_fpps.c:357]: (null/0:0) picked next task from ready queue
+633060 P1 [pfp_schedule@litmus/sched_fpps.c:394]: becoming idle at 8276636106182, mode 0
+633061 P1 [pfp_schedule@litmus/sched_fpps.c:233]: ;AN;Mode;0;critial;0;runtime;0;c_lo;0;c_hi;0
+633062 P1 [pfp_schedule@litmus/sched_fpps.c:244]: Task parameters : out_of_time 0, np 0, sleep 0, blocking 0 migrate 0, preempt 0
+633063 P1 [pfp_schedule@litmus/sched_fpps.c:341]: bailout_overhead : 1794
+633064 P1 [pfp_schedule@litmus/sched_fpps.c:357]: (null/0:0) picked next task from ready queue
+633065 P1 [pfp_schedule@litmus/sched_fpps.c:394]: becoming idle at 8276636115470, mode 0
+633066 P1 [pfp_schedule@litmus/sched_fpps.c:233]: ;AN;Mode;0;critial;0;runtime;0;c_lo;0;c_hi;0
+633067 P1 [pfp_schedule@litmus/sched_fpps.c:244]: Task parameters : out_of_time 0, np 0, sleep 0, blocking 0 migrate 0, preempt 0
+633068 P1 [pfp_schedule@litmus/sched_fpps.c:341]: bailout_overhead : 5925
+633069 P1 [pfp_schedule@litmus/sched_fpps.c:357]: (null/0:0) picked next task from ready queue
+633070 P1 [pfp_schedule@litmus/sched_fpps.c:394]: becoming idle at 8276648140722, mode 0
+633071 P1 [pfp_schedule@litmus/sched_fpps.c:233]: ;AN;Mode;0;critial;0;runtime;0;c_lo;0;c_hi;0
+633072 P1 [pfp_schedule@litmus/sched_fpps.c:244]: Task parameters : out_of_time 0, np 0, sleep 0, blocking 0 migrate 0, preempt 0
+633073 P1 [pfp_schedule@litmus/sched_fpps.c:341]: bailout_overhead : 2023
+633074 P1 [pfp_schedule@litmus/sched_fpps.c:357]: (null/0:0) picked next task from ready queue
+633075 P1 [pfp_schedule@litmus/sched_fpps.c:394]: becoming idle at 8276648163150, mode 0
+633076 P1 [pfp_schedule@litmus/sched_fpps.c:233]: ;AN;Mode;0;critial;0;runtime;0;c_lo;0;c_hi;0
+633077 P1 [pfp_schedule@litmus/sched_fpps.c:244]: Task parameters : out_of_time 0, np 0, sleep 0, blocking 0 migrate 0, preempt 0
+633078 P1 [pfp_schedule@litmus/sched_fpps.c:341]: bailout_overhead : 2278
+633079 P1 [pfp_schedule@litmus/sched_fpps.c:357]: (null/0:0) picked next task from ready queue
+633080 P1 [pfp_schedule@litmus/sched_fpps.c:394]: becoming idle at 8276648185632, mode 0
+633113 P1 [pfp_schedule@litmus/sched_fpps.c:233]: ;AN;Mode;0;critial;0;runtime;0;c_lo;0;c_hi;0
+633116 P1 [pfp_schedule@litmus/sched_fpps.c:244]: Task parameters : out_of_time 0, np 0, sleep 0, blocking 0 migrate 0, preempt 0
+633118 P1 [pfp_schedule@litmus/sched_fpps.c:341]: bailout_overhead : 2913
+633119 P1 [pfp_schedule@litmus/sched_fpps.c:357]: (null/0:0) picked next task from ready queue
+633120 P1 [pfp_schedule@litmus/sched_fpps.c:394]: becoming idle at 8276910194738, mode 0
+633121 P1 [pfp_schedule@litmus/sched_fpps.c:233]: ;AN;Mode;0;critial;0;runtime;0;c_lo;0;c_hi;0
+633122 P1 [pfp_schedule@litmus/sched_fpps.c:244]: Task parameters : out_of_time 0, np 0, sleep 0, blocking 0 migrate 0, preempt 0
+633123 P1 [pfp_schedule@litmus/sched_fpps.c:341]: bailout_overhead : 2219
+633124 P1 [pfp_schedule@litmus/sched_fpps.c:357]: (null/0:0) picked next task from ready queue
+633125 P1 [pfp_schedule@litmus/sched_fpps.c:394]: becoming idle at 8276910484232, mode 0
+633143 P1 [pfp_schedule@litmus/sched_fpps.c:233]: ;AN;Mode;0;critial;0;runtime;0;c_lo;0;c_hi;0
+633146 P1 [pfp_schedule@litmus/sched_fpps.c:244]: Task parameters : out_of_time 0, np 0, sleep 0, blocking 0 migrate 0, preempt 0
+633148 P1 [pfp_schedule@litmus/sched_fpps.c:341]: bailout_overhead : 3698
+633149 P1 [pfp_schedule@litmus/sched_fpps.c:357]: (null/0:0) picked next task from ready queue
+633150 P1 [pfp_schedule@litmus/sched_fpps.c:394]: becoming idle at 8277192268731, mode 0
+633156 P1 [pfp_schedule@litmus/sched_fpps.c:233]: ;AN;Mode;0;critial;0;runtime;0;c_lo;0;c_hi;0
+633157 P1 [pfp_schedule@litmus/sched_fpps.c:244]: Task parameters : out_of_time 0, np 0, sleep 0, blocking 0 migrate 0, preempt 0
+633158 P1 [pfp_schedule@litmus/sched_fpps.c:341]: bailout_overhead : 4758
+633159 P1 [pfp_schedule@litmus/sched_fpps.c:357]: (null/0:0) picked next task from ready queue
+633160 P1 [pfp_schedule@litmus/sched_fpps.c:394]: becoming idle at 8277312118282, mode 0
+633166 P1 [pfp_schedule@litmus/sched_fpps.c:233]: ;AN;Mode;0;critial;0;runtime;0;c_lo;0;c_hi;0
+633167 P1 [pfp_schedule@litmus/sched_fpps.c:244]: Task parameters : out_of_time 0, np 0, sleep 0, blocking 0 migrate 0, preempt 0
+633168 P1 [pfp_schedule@litmus/sched_fpps.c:341]: bailout_overhead : 2541
+633169 P1 [pfp_schedule@litmus/sched_fpps.c:357]: (null/0:0) picked next task from ready queue
+633170 P1 [pfp_schedule@litmus/sched_fpps.c:394]: becoming idle at 8277312630965, mode 0
+633196 P1 [pfp_release_jobs@litmus/sched_fpps.c:99]: ;AN;start
+633197 P1 [pfp_release_jobs@litmus/sched_fpps.c:122]: bailout_overhead : 818
+633198 P1 [pfp_release_jobs@litmus/sched_fpps.c:125]: (rtspin/1954:3) released (part:1 prio:511
+633199 P1 [pfp_release_jobs@litmus/sched_fpps.c:131]: (swapper/1/0:0) preempted by new release
+633200 P1 [pfp_schedule@litmus/sched_fpps.c:233]: ;AN;Mode;0;critial;0;runtime;0;c_lo;0;c_hi;0
+633201 P1 [pfp_schedule@litmus/sched_fpps.c:244]: Task parameters : out_of_time 0, np 0, sleep 0, blocking 0 migrate 0, preempt 1
+633202 P1 [pfp_schedule@litmus/sched_fpps.c:341]: bailout_overhead : 2055
+633203 P1 [pfp_schedule@litmus/sched_fpps.c:357]: (rtspin/1954:3) picked next task from ready queue
+633204 P1 [pfp_schedule@litmus/sched_fpps.c:386]: (rtspin/1954:3) scheduled at 8277592103256
+633205 P1 [pfp_schedule@litmus/sched_fpps.c:233]: ;AN;Mode;0;critial;1;runtime;10;c_lo;10;c_hi;50
+633206 P1 [pfp_schedule@litmus/sched_fpps.c:244]: Task parameters : out_of_time 0, np 0, sleep 1, blocking 0 migrate 0, preempt 0
+633207 P1 [pfp_schedule@litmus/sched_fpps.c:270]: (rtspin/1954:3) Job completes
+633208 P1 [job_completion@litmus/sched_fpps.c:174]: (rtspin/1954:3) job_completion()
+633209 P1 [job_completion@litmus/sched_fpps.c:191]: ;AN;end
+633210 P1 [job_completion@litmus/sched_fpps.c:193]: bailout_overhead : 972
+633211 P1 [pfp_schedule@litmus/sched_fpps.c:276]: (rtspin/1954:4) deadline 8277792000000, now 8277602144112
+633212 P1 [pfp_schedule@litmus/sched_fpps.c:341]: bailout_overhead : 3338
+633213 P1 [requeue@litmus/sched_fpps.c:161]: (rtspin/1954:4) requeing task. Setting completed flag
+633214 P1 [__add_release@litmus/rt_domain.c:348]: (rtspin/1954:4) add_release(), rel=8277692000000
+633215 P1 [pfp_schedule@litmus/sched_fpps.c:357]: (null/0:0) picked next task from ready queue
+633216 P1 [pfp_schedule@litmus/sched_fpps.c:394]: becoming idle at 8277602151077, mode 0
+633227 P1 [pfp_release_jobs@litmus/sched_fpps.c:99]: ;AN;start
+633228 P1 [pfp_release_jobs@litmus/sched_fpps.c:122]: bailout_overhead : 1036
+633229 P1 [pfp_release_jobs@litmus/sched_fpps.c:125]: (rtspin/1954:4) released (part:1 prio:511
+633230 P1 [pfp_release_jobs@litmus/sched_fpps.c:131]: (swapper/1/0:0) preempted by new release
+633231 P1 [pfp_schedule@litmus/sched_fpps.c:233]: ;AN;Mode;0;critial;0;runtime;0;c_lo;0;c_hi;0
+633232 P1 [pfp_schedule@litmus/sched_fpps.c:244]: Task parameters : out_of_time 0, np 0, sleep 0, blocking 0 migrate 0, preempt 1
+633233 P1 [pfp_schedule@litmus/sched_fpps.c:341]: bailout_overhead : 2522
+633234 P1 [pfp_schedule@litmus/sched_fpps.c:357]: (rtspin/1954:4) picked next task from ready queue
+633235 P1 [pfp_schedule@litmus/sched_fpps.c:386]: (rtspin/1954:4) scheduled at 8277692171765
+633241 P1 [pfp_schedule@litmus/sched_fpps.c:233]: ;AN;Mode;0;critial;1;runtime;20;c_lo;10;c_hi;50
+633242 P1 [pfp_schedule@litmus/sched_fpps.c:244]: Task parameters : out_of_time 0, np 0, sleep 1, blocking 0 migrate 0, preempt 0
+633243 P1 [pfp_schedule@litmus/sched_fpps.c:270]: (rtspin/1954:4) Job completes
+633244 P1 [job_completion@litmus/sched_fpps.c:174]: (rtspin/1954:4) job_completion()
+633245 P1 [job_completion@litmus/sched_fpps.c:191]: ;AN;end
+633246 P1 [job_completion@litmus/sched_fpps.c:193]: bailout_overhead : 956
+633247 P1 [pfp_schedule@litmus/sched_fpps.c:276]: (rtspin/1954:5) deadline 8277892000000, now 8277712230300
+633248 P1 [pfp_schedule@litmus/sched_fpps.c:312]: Entering bailout mode
+633249 P1 [pfp_schedule@litmus/sched_fpps.c:313]: ;AN;bfund;40
+633250 P1 [pfp_schedule@litmus/sched_fpps.c:341]: bailout_overhead : 9638
+633251 P1 [requeue@litmus/sched_fpps.c:161]: (rtspin/1954:5) requeing task. Setting completed flag
+633252 P1 [__add_release@litmus/rt_domain.c:348]: (rtspin/1954:5) add_release(), rel=8277792000000
+633253 P1 [pfp_schedule@litmus/sched_fpps.c:357]: (null/0:0) picked next task from ready queue
+633254 P1 [pfp_schedule@litmus/sched_fpps.c:389]: Entering Normal mode
+633255 P1 [pfp_schedule@litmus/sched_fpps.c:394]: becoming idle at 8277712243934, mode 0
+633256 P1 [pfp_release_jobs@litmus/sched_fpps.c:99]: ;AN;start
+633257 P1 [pfp_release_jobs@litmus/sched_fpps.c:122]: bailout_overhead : 1327
+633258 P1 [pfp_release_jobs@litmus/sched_fpps.c:125]: (rtspin/1954:5) released (part:1 prio:511
+633259 P1 [pfp_release_jobs@litmus/sched_fpps.c:131]: (swapper/1/0:0) preempted by new release
+633260 P1 [pfp_schedule@litmus/sched_fpps.c:233]: ;AN;Mode;0;critial;0;runtime;0;c_lo;0;c_hi;0
+633261 P1 [pfp_schedule@litmus/sched_fpps.c:244]: Task parameters : out_of_time 0, np 0, sleep 0, blocking 0 migrate 0, preempt 1
+633262 P1 [pfp_schedule@litmus/sched_fpps.c:341]: bailout_overhead : 3326
+633263 P1 [pfp_schedule@litmus/sched_fpps.c:357]: (rtspin/1954:5) picked next task from ready queue
+633264 P1 [pfp_schedule@litmus/sched_fpps.c:386]: (rtspin/1954:5) scheduled at 8277792189007
+633265 P1 [pfp_schedule@litmus/sched_fpps.c:233]: ;AN;Mode;0;critial;1;runtime;30;c_lo;10;c_hi;50
+633266 P1 [pfp_schedule@litmus/sched_fpps.c:244]: Task parameters : out_of_time 0, np 0, sleep 1, blocking 0 migrate 0, preempt 0
+633267 P1 [pfp_schedule@litmus/sched_fpps.c:270]: (rtspin/1954:5) Job completes
+633268 P1 [job_completion@litmus/sched_fpps.c:174]: (rtspin/1954:5) job_completion()
+633269 P1 [job_completion@litmus/sched_fpps.c:191]: ;AN;end
+633270 P1 [job_completion@litmus/sched_fpps.c:193]: bailout_overhead : 969
+633271 P1 [pfp_schedule@litmus/sched_fpps.c:276]: (rtspin/1954:6) deadline 8277992000000, now 8277822258535
+633272 P1 [pfp_schedule@litmus/sched_fpps.c:312]: Entering bailout mode
+633273 P1 [pfp_schedule@litmus/sched_fpps.c:313]: ;AN;bfund;40
+633274 P1 [pfp_schedule@litmus/sched_fpps.c:341]: bailout_overhead : 5952
+633275 P1 [requeue@litmus/sched_fpps.c:161]: (rtspin/1954:6) requeing task. Setting completed flag
+633276 P1 [__add_release@litmus/rt_domain.c:348]: (rtspin/1954:6) add_release(), rel=8277892000000
+633277 P1 [pfp_schedule@litmus/sched_fpps.c:357]: (null/0:0) picked next task from ready queue
+633278 P1 [pfp_schedule@litmus/sched_fpps.c:389]: Entering Normal mode
+633279 P1 [pfp_schedule@litmus/sched_fpps.c:394]: becoming idle at 8277822267721, mode 0
+633280 P1 [pfp_schedule@litmus/sched_fpps.c:233]: ;AN;Mode;0;critial;0;runtime;0;c_lo;0;c_hi;0
+633281 P1 [pfp_schedule@litmus/sched_fpps.c:244]: Task parameters : out_of_time 0, np 0, sleep 0, blocking 0 migrate 0, preempt 0
+633282 P1 [pfp_schedule@litmus/sched_fpps.c:341]: bailout_overhead : 2144
+633283 P1 [pfp_schedule@litmus/sched_fpps.c:357]: (null/0:0) picked next task from ready queue
+633284 P1 [pfp_schedule@litmus/sched_fpps.c:394]: becoming idle at 8277822324284, mode 0
+633285 P1 [pfp_schedule@litmus/sched_fpps.c:233]: ;AN;Mode;0;critial;0;runtime;0;c_lo;0;c_hi;0
+633286 P1 [pfp_schedule@litmus/sched_fpps.c:244]: Task parameters : out_of_time 0, np 0, sleep 0, blocking 0 migrate 0, preempt 0
+633287 P1 [pfp_schedule@litmus/sched_fpps.c:341]: bailout_overhead : 2548
+633288 P1 [pfp_schedule@litmus/sched_fpps.c:357]: (null/0:0) picked next task from ready queue
+633289 P1 [pfp_schedule@litmus/sched_fpps.c:394]: becoming idle at 8277822343168, mode 0
+633300 P1 [pfp_release_jobs@litmus/sched_fpps.c:99]: ;AN;start
+633301 P1 [pfp_release_jobs@litmus/sched_fpps.c:122]: bailout_overhead : 931
+633302 P1 [pfp_release_jobs@litmus/sched_fpps.c:125]: (rtspin/1954:6) released (part:1 prio:511
+633303 P1 [pfp_release_jobs@litmus/sched_fpps.c:131]: (swapper/1/0:0) preempted by new release
+633304 P1 [pfp_schedule@litmus/sched_fpps.c:233]: ;AN;Mode;0;critial;0;runtime;0;c_lo;0;c_hi;0
+633305 P1 [pfp_schedule@litmus/sched_fpps.c:244]: Task parameters : out_of_time 0, np 0, sleep 0, blocking 0 migrate 0, preempt 1
+633306 P1 [pfp_schedule@litmus/sched_fpps.c:341]: bailout_overhead : 2106
+633307 P1 [pfp_schedule@litmus/sched_fpps.c:357]: (rtspin/1954:6) picked next task from ready queue
+633308 P1 [pfp_schedule@litmus/sched_fpps.c:386]: (rtspin/1954:6) scheduled at 8277892097016
+633344 P1 [pfp_schedule@litmus/sched_fpps.c:233]: ;AN;Mode;0;critial;1;runtime;40;c_lo;10;c_hi;50
+633345 P1 [pfp_schedule@litmus/sched_fpps.c:244]: Task parameters : out_of_time 0, np 0, sleep 1, blocking 0 migrate 0, preempt 0
+633346 P1 [pfp_schedule@litmus/sched_fpps.c:270]: (rtspin/1954:6) Job completes
+633347 P1 [job_completion@litmus/sched_fpps.c:174]: (rtspin/1954:6) job_completion()
+633348 P1 [job_completion@litmus/sched_fpps.c:191]: ;AN;end
+633349 P1 [job_completion@litmus/sched_fpps.c:193]: bailout_overhead : 963
+633350 P1 [pfp_schedule@litmus/sched_fpps.c:276]: (rtspin/1954:7) deadline 8278092000000, now 8277932151402
+633351 P1 [pfp_schedule@litmus/sched_fpps.c:312]: Entering bailout mode
+633352 P1 [pfp_schedule@litmus/sched_fpps.c:313]: ;AN;bfund;40
+633353 P1 [pfp_schedule@litmus/sched_fpps.c:341]: bailout_overhead : 4478
+633354 P1 [requeue@litmus/sched_fpps.c:161]: (rtspin/1954:7) requeing task. Setting completed flag
+633355 P1 [__add_release@litmus/rt_domain.c:348]: (rtspin/1954:7) add_release(), rel=8277992000000
+633356 P1 [pfp_schedule@litmus/sched_fpps.c:357]: (null/0:0) picked next task from ready queue
+633357 P1 [pfp_schedule@litmus/sched_fpps.c:389]: Entering Normal mode
+633358 P1 [pfp_schedule@litmus/sched_fpps.c:394]: becoming idle at 8277932159890, mode 0
+633359 P1 [pfp_release_jobs@litmus/sched_fpps.c:99]: ;AN;start
+633360 P1 [pfp_release_jobs@litmus/sched_fpps.c:122]: bailout_overhead : 1030
+633361 P1 [pfp_release_jobs@litmus/sched_fpps.c:125]: (rtspin/1954:7) released (part:1 prio:511
+633362 P1 [pfp_release_jobs@litmus/sched_fpps.c:131]: (swapper/1/0:0) preempted by new release
+633363 P1 [pfp_schedule@litmus/sched_fpps.c:233]: ;AN;Mode;0;critial;0;runtime;0;c_lo;0;c_hi;0
+633364 P1 [pfp_schedule@litmus/sched_fpps.c:244]: Task parameters : out_of_time 0, np 0, sleep 0, blocking 0 migrate 0, preempt 1
+633365 P1 [pfp_schedule@litmus/sched_fpps.c:341]: bailout_overhead : 3588
+633366 P1 [pfp_schedule@litmus/sched_fpps.c:357]: (rtspin/1954:7) picked next task from ready queue
+633367 P1 [pfp_schedule@litmus/sched_fpps.c:386]: (rtspin/1954:7) scheduled at 8277992178967
+633368 P1 [pfp_schedule@litmus/sched_fpps.c:233]: ;AN;Mode;0;critial;1;runtime;50;c_lo;10;c_hi;50
+633369 P1 [pfp_schedule@litmus/sched_fpps.c:244]: Task parameters : out_of_time 0, np 0, sleep 1, blocking 0 migrate 0, preempt 0
+633370 P1 [pfp_schedule@litmus/sched_fpps.c:270]: (rtspin/1954:7) Job completes
+633371 P1 [job_completion@litmus/sched_fpps.c:174]: (rtspin/1954:7) job_completion()
+633372 P1 [job_completion@litmus/sched_fpps.c:191]: ;AN;end
+633373 P1 [job_completion@litmus/sched_fpps.c:193]: bailout_overhead : 973
+633374 P1 [pfp_schedule@litmus/sched_fpps.c:276]: (rtspin/1954:8) deadline 8278192000000, now 8278042277333
+633375 P1 [pfp_schedule@litmus/sched_fpps.c:312]: Entering bailout mode
+633376 P1 [pfp_schedule@litmus/sched_fpps.c:313]: ;AN;bfund;40
+633377 P1 [pfp_schedule@litmus/sched_fpps.c:341]: bailout_overhead : 11417
+633378 P1 [requeue@litmus/sched_fpps.c:161]: (rtspin/1954:8) requeing task. Setting completed flag
+633379 P1 [__add_release@litmus/rt_domain.c:348]: (rtspin/1954:8) add_release(), rel=8278092000000
+633380 P1 [pfp_schedule@litmus/sched_fpps.c:357]: (null/0:0) picked next task from ready queue
+633381 P1 [pfp_schedule@litmus/sched_fpps.c:389]: Entering Normal mode
+633382 P1 [pfp_schedule@litmus/sched_fpps.c:394]: becoming idle at 8278042293836, mode 0
+633398 P1 [pfp_release_jobs@litmus/sched_fpps.c:99]: ;AN;start
+633399 P1 [pfp_release_jobs@litmus/sched_fpps.c:122]: bailout_overhead : 816
+633400 P1 [pfp_release_jobs@litmus/sched_fpps.c:125]: (rtspin/1954:8) released (part:1 prio:511
+633401 P1 [pfp_release_jobs@litmus/sched_fpps.c:131]: (swapper/1/0:0) preempted by new release
+633402 P1 [pfp_schedule@litmus/sched_fpps.c:233]: ;AN;Mode;0;critial;0;runtime;0;c_lo;0;c_hi;0
+633403 P1 [pfp_schedule@litmus/sched_fpps.c:244]: Task parameters : out_of_time 0, np 0, sleep 0, blocking 0 migrate 0, preempt 1
+633404 P1 [pfp_schedule@litmus/sched_fpps.c:341]: bailout_overhead : 2980
+633405 P1 [pfp_schedule@litmus/sched_fpps.c:357]: (rtspin/1954:8) picked next task from ready queue
+633406 P1 [pfp_schedule@litmus/sched_fpps.c:386]: (rtspin/1954:8) scheduled at 8278092161163
+633407 P1 [dequeue_task_litmus@kernel/sched/litmus.c:192]: (rtspin/1954:8) ignoring a dequeue, not going to sleep.
+633408 P1 [pfp_task_exit@litmus/sched_fpps.c:508]: (rtspin/1954:8) RIP, now reschedule
+633409 P1 [litmus_dealloc@litmus/litmus.c:554]: (rtspin/1954:8) Deallocating real-time task data
+633410 P1 [pfp_schedule@litmus/sched_fpps.c:233]: ;AN;Mode;0;critial;0;runtime;0;c_lo;0;c_hi;0
+633411 P1 [pfp_schedule@litmus/sched_fpps.c:244]: Task parameters : out_of_time 0, np 0, sleep 0, blocking 0 migrate 0, preempt 0
+633412 P1 [pfp_schedule@litmus/sched_fpps.c:341]: bailout_overhead : 1941
+633413 P1 [pfp_schedule@litmus/sched_fpps.c:357]: (null/0:0) picked next task from ready queue
+633414 P1 [pfp_schedule@litmus/sched_fpps.c:394]: becoming idle at 8278092214685, mode 0
+633415 P1 [litmus_ctrl_vm_close@litmus/ctrldev.c:53]: (rtspin/1954:0) litmus_ctrl_vm_close flags=0x10160073 prot=0x27
+633416 P1 [litmus_ctrl_vm_close@litmus/ctrldev.c:58]: (rtspin/1954:0) litmus/ctrl: 00007f81c3686000:00007f81c3687000 vma:ffff880358e48f18 vma->vm_private_data:          (null) closed.
+633417 P1 [pfp_schedule@litmus/sched_fpps.c:233]: ;AN;Mode;0;critial;0;runtime;0;c_lo;0;c_hi;0
+633418 P1 [pfp_schedule@litmus/sched_fpps.c:244]: Task parameters : out_of_time 0, np 0, sleep 0, blocking 0 migrate 0, preempt 0
+633419 P1 [pfp_schedule@litmus/sched_fpps.c:341]: bailout_overhead : 2277
+633420 P1 [pfp_schedule@litmus/sched_fpps.c:357]: (null/0:0) picked next task from ready queue
+633421 P1 [pfp_schedule@litmus/sched_fpps.c:394]: becoming idle at 8278096095638, mode 0
+633422 P1 [pfp_schedule@litmus/sched_fpps.c:233]: ;AN;Mode;0;critial;0;runtime;0;c_lo;0;c_hi;0
+633423 P1 [pfp_schedule@litmus/sched_fpps.c:244]: Task parameters : out_of_time 0, np 0, sleep 0, blocking 0 migrate 0, preempt 0
+633424 P1 [pfp_schedule@litmus/sched_fpps.c:341]: bailout_overhead : 1905
+633425 P1 [pfp_schedule@litmus/sched_fpps.c:357]: (null/0:0) picked next task from ready queue
+633426 P1 [pfp_schedule@litmus/sched_fpps.c:394]: becoming idle at 8278096135852, mode 0
+633427 P1 [pfp_schedule@litmus/sched_fpps.c:233]: ;AN;Mode;0;critial;0;runtime;0;c_lo;0;c_hi;0
+633428 P1 [pfp_schedule@litmus/sched_fpps.c:244]: Task parameters : out_of_time 0, np 0, sleep 0, blocking 0 migrate 0, preempt 0
+633429 P1 [pfp_schedule@litmus/sched_fpps.c:341]: bailout_overhead : 1893
+633430 P1 [pfp_schedule@litmus/sched_fpps.c:357]: (null/0:0) picked next task from ready queue
+633431 P1 [pfp_schedule@litmus/sched_fpps.c:394]: becoming idle at 8278096145607, mode 0
+633432 P1 [pfp_schedule@litmus/sched_fpps.c:233]: ;AN;Mode;0;critial;0;runtime;0;c_lo;0;c_hi;0
+633433 P1 [pfp_schedule@litmus/sched_fpps.c:244]: Task parameters : out_of_time 0, np 0, sleep 0, blocking 0 migrate 0, preempt 0
+633434 P1 [pfp_schedule@litmus/sched_fpps.c:341]: bailout_overhead : 1903
+633435 P1 [pfp_schedule@litmus/sched_fpps.c:357]: (null/0:0) picked next task from ready queue
+633436 P1 [pfp_schedule@litmus/sched_fpps.c:394]: becoming idle at 8278096212461, mode 0
+633442 P1 [pfp_schedule@litmus/sched_fpps.c:233]: ;AN;Mode;0;critial;0;runtime;0;c_lo;0;c_hi;0
+633443 P1 [pfp_schedule@litmus/sched_fpps.c:244]: Task parameters : out_of_time 0, np 0, sleep 0, blocking 0 migrate 0, preempt 0
+633444 P1 [pfp_schedule@litmus/sched_fpps.c:341]: bailout_overhead : 2995
+633445 P1 [pfp_schedule@litmus/sched_fpps.c:357]: (null/0:0) picked next task from ready queue
+633446 P1 [pfp_schedule@litmus/sched_fpps.c:394]: becoming idle at 8278096484893, mode 0
+633447 P1 [pfp_schedule@litmus/sched_fpps.c:233]: ;AN;Mode;0;critial;0;runtime;0;c_lo;0;c_hi;0
+633448 P1 [pfp_schedule@litmus/sched_fpps.c:244]: Task parameters : out_of_time 0, np 0, sleep 0, blocking 0 migrate 0, preempt 0
+633449 P1 [pfp_schedule@litmus/sched_fpps.c:341]: bailout_overhead : 2582
+633450 P1 [pfp_schedule@litmus/sched_fpps.c:357]: (null/0:0) picked next task from ready queue
+633451 P1 [pfp_schedule@litmus/sched_fpps.c:394]: becoming idle at 8278096500134, mode 0
+633477 P1 [pfp_schedule@litmus/sched_fpps.c:233]: ;AN;Mode;0;critial;0;runtime;0;c_lo;0;c_hi;0
+633478 P1 [pfp_schedule@litmus/sched_fpps.c:244]: Task parameters : out_of_time 0, np 0, sleep 0, blocking 0 migrate 0, preempt 0
+633479 P1 [pfp_schedule@litmus/sched_fpps.c:341]: bailout_overhead : 2670
+633480 P1 [pfp_schedule@litmus/sched_fpps.c:357]: (null/0:0) picked next task from ready queue
+633481 P1 [pfp_schedule@litmus/sched_fpps.c:394]: becoming idle at 8278097691407, mode 0
+633482 P1 [pfp_schedule@litmus/sched_fpps.c:233]: ;AN;Mode;0;critial;0;runtime;0;c_lo;0;c_hi;0
+633483 P1 [pfp_schedule@litmus/sched_fpps.c:244]: Task parameters : out_of_time 0, np 0, sleep 0, blocking 0 migrate 0, preempt 0
+633484 P1 [pfp_schedule@litmus/sched_fpps.c:341]: bailout_overhead : 1899
+633485 P1 [pfp_schedule@litmus/sched_fpps.c:357]: (null/0:0) picked next task from ready queue
+633486 P1 [pfp_schedule@litmus/sched_fpps.c:394]: becoming idle at 8278097706356, mode 0
+633557 P1 [pfp_schedule@litmus/sched_fpps.c:233]: ;AN;Mode;0;critial;0;runtime;0;c_lo;0;c_hi;0
+633558 P1 [pfp_schedule@litmus/sched_fpps.c:244]: Task parameters : out_of_time 0, np 0, sleep 0, blocking 0 migrate 0, preempt 0
+633559 P1 [pfp_schedule@litmus/sched_fpps.c:341]: bailout_overhead : 2517
+633560 P1 [pfp_schedule@litmus/sched_fpps.c:357]: (null/0:0) picked next task from ready queue
+633561 P1 [pfp_schedule@litmus/sched_fpps.c:394]: becoming idle at 8278108075676, mode 0
+633562 P1 [pfp_schedule@litmus/sched_fpps.c:233]: ;AN;Mode;0;critial;0;runtime;0;c_lo;0;c_hi;0
+633563 P1 [pfp_schedule@litmus/sched_fpps.c:244]: Task parameters : out_of_time 0, np 0, sleep 0, blocking 0 migrate 0, preempt 0
+633564 P1 [pfp_schedule@litmus/sched_fpps.c:341]: bailout_overhead : 1868
+633565 P1 [pfp_schedule@litmus/sched_fpps.c:357]: (null/0:0) picked next task from ready queue
+633566 P1 [pfp_schedule@litmus/sched_fpps.c:394]: becoming idle at 8278108088565, mode 0
+633567 P1 [pfp_schedule@litmus/sched_fpps.c:233]: ;AN;Mode;0;critial;0;runtime;0;c_lo;0;c_hi;0
+633568 P1 [pfp_schedule@litmus/sched_fpps.c:244]: Task parameters : out_of_time 0, np 0, sleep 0, blocking 0 migrate 0, preempt 0
+633569 P1 [pfp_schedule@litmus/sched_fpps.c:341]: bailout_overhead : 1839
+633570 P1 [pfp_schedule@litmus/sched_fpps.c:357]: (null/0:0) picked next task from ready queue
+633571 P1 [pfp_schedule@litmus/sched_fpps.c:394]: becoming idle at 8278108101395, mode 0
+633582 P1 [pfp_schedule@litmus/sched_fpps.c:233]: ;AN;Mode;0;critial;0;runtime;0;c_lo;0;c_hi;0
+633583 P1 [pfp_schedule@litmus/sched_fpps.c:244]: Task parameters : out_of_time 0, np 0, sleep 0, blocking 0 migrate 0, preempt 0
+633584 P1 [pfp_schedule@litmus/sched_fpps.c:341]: bailout_overhead : 2931
+633585 P1 [pfp_schedule@litmus/sched_fpps.c:357]: (null/0:0) picked next task from ready queue
+633586 P1 [pfp_schedule@litmus/sched_fpps.c:394]: becoming idle at 8278112556449, mode 0
+633587 P1 [pfp_schedule@litmus/sched_fpps.c:233]: ;AN;Mode;0;critial;0;runtime;0;c_lo;0;c_hi;0
+633588 P1 [pfp_schedule@litmus/sched_fpps.c:244]: Task parameters : out_of_time 0, np 0, sleep 0, blocking 0 migrate 0, preempt 0
+633589 P1 [pfp_schedule@litmus/sched_fpps.c:341]: bailout_overhead : 2110
+633590 P1 [pfp_schedule@litmus/sched_fpps.c:357]: (null/0:0) picked next task from ready queue
+633591 P1 [pfp_schedule@litmus/sched_fpps.c:394]: becoming idle at 8278112836910, mode 0
+633592 P1 [pfp_schedule@litmus/sched_fpps.c:233]: ;AN;Mode;0;critial;0;runtime;0;c_lo;0;c_hi;0
+633593 P1 [pfp_schedule@litmus/sched_fpps.c:244]: Task parameters : out_of_time 0, np 0, sleep 0, blocking 0 migrate 0, preempt 0
+633594 P1 [pfp_schedule@litmus/sched_fpps.c:341]: bailout_overhead : 2495
+633595 P1 [pfp_schedule@litmus/sched_fpps.c:357]: (null/0:0) picked next task from ready queue
+633596 P1 [pfp_schedule@litmus/sched_fpps.c:394]: becoming idle at 8278120068805, mode 0
+633597 P1 [pfp_schedule@litmus/sched_fpps.c:233]: ;AN;Mode;0;critial;0;runtime;0;c_lo;0;c_hi;0
+633598 P1 [pfp_schedule@litmus/sched_fpps.c:244]: Task parameters : out_of_time 0, np 0, sleep 0, blocking 0 migrate 0, preempt 0
+633599 P1 [pfp_schedule@litmus/sched_fpps.c:341]: bailout_overhead : 1866
+633600 P1 [pfp_schedule@litmus/sched_fpps.c:357]: (null/0:0) picked next task from ready queue
+633601 P1 [pfp_schedule@litmus/sched_fpps.c:394]: becoming idle at 8278120082115, mode 0
+633602 P1 [pfp_schedule@litmus/sched_fpps.c:233]: ;AN;Mode;0;critial;0;runtime;0;c_lo;0;c_hi;0
+633603 P1 [pfp_schedule@litmus/sched_fpps.c:244]: Task parameters : out_of_time 0, np 0, sleep 0, blocking 0 migrate 0, preempt 0
+633604 P1 [pfp_schedule@litmus/sched_fpps.c:341]: bailout_overhead : 1888
+633605 P1 [pfp_schedule@litmus/sched_fpps.c:357]: (null/0:0) picked next task from ready queue
+633606 P1 [pfp_schedule@litmus/sched_fpps.c:394]: becoming idle at 8278120097796, mode 0
+633607 P1 [exit_litmus@litmus/litmus.c:532]: (rtspin/1954:0) freeing ctrl_page ffff8803569df000
+633608 P1 [pfp_schedule@litmus/sched_fpps.c:233]: ;AN;Mode;0;critial;0;runtime;0;c_lo;0;c_hi;0
+633609 P1 [pfp_schedule@litmus/sched_fpps.c:244]: Task parameters : out_of_time 0, np 0, sleep 0, blocking 0 migrate 0, preempt 0
+633610 P1 [pfp_schedule@litmus/sched_fpps.c:341]: bailout_overhead : 1861
+633611 P1 [pfp_schedule@litmus/sched_fpps.c:357]: (null/0:0) picked next task from ready queue
+633612 P1 [pfp_schedule@litmus/sched_fpps.c:394]: becoming idle at 8278120116450, mode 0
+633613 P1 [pfp_schedule@litmus/sched_fpps.c:233]: ;AN;Mode;0;critial;0;runtime;0;c_lo;0;c_hi;0
+633614 P1 [pfp_schedule@litmus/sched_fpps.c:244]: Task parameters : out_of_time 0, np 0, sleep 0, blocking 0 migrate 0, preempt 0
+633615 P1 [pfp_schedule@litmus/sched_fpps.c:341]: bailout_overhead : 2547
+633616 P1 [pfp_schedule@litmus/sched_fpps.c:357]: (null/0:0) picked next task from ready queue
+633617 P1 [pfp_schedule@litmus/sched_fpps.c:394]: becoming idle at 8278132093713, mode 0
+633618 P1 [pfp_schedule@litmus/sched_fpps.c:233]: ;AN;Mode;0;critial;0;runtime;0;c_lo;0;c_hi;0
+633619 P1 [pfp_schedule@litmus/sched_fpps.c:244]: Task parameters : out_of_time 0, np 0, sleep 0, blocking 0 migrate 0, preempt 0
+633620 P1 [pfp_schedule@litmus/sched_fpps.c:341]: bailout_overhead : 1861
+633621 P1 [pfp_schedule@litmus/sched_fpps.c:357]: (null/0:0) picked next task from ready queue
+633622 P1 [pfp_schedule@litmus/sched_fpps.c:394]: becoming idle at 8278132115642, mode 0
+633623 P1 [pfp_schedule@litmus/sched_fpps.c:233]: ;AN;Mode;0;critial;0;runtime;0;c_lo;0;c_hi;0
+633624 P1 [pfp_schedule@litmus/sched_fpps.c:244]: Task parameters : out_of_time 0, np 0, sleep 0, blocking 0 migrate 0, preempt 0
+633625 P1 [pfp_schedule@litmus/sched_fpps.c:341]: bailout_overhead : 1835
+633626 P1 [pfp_schedule@litmus/sched_fpps.c:357]: (null/0:0) picked next task from ready queue
+633627 P1 [pfp_schedule@litmus/sched_fpps.c:394]: becoming idle at 8278132129030, mode 0
+633628 P1 [pfp_schedule@litmus/sched_fpps.c:233]: ;AN;Mode;0;critial;0;runtime;0;c_lo;0;c_hi;0
+633629 P1 [pfp_schedule@litmus/sched_fpps.c:244]: Task parameters : out_of_time 0, np 0, sleep 0, blocking 0 migrate 0, preempt 0
+633630 P1 [pfp_schedule@litmus/sched_fpps.c:341]: bailout_overhead : 3345
+633631 P1 [pfp_schedule@litmus/sched_fpps.c:357]: (null/0:0) picked next task from ready queue
+633632 P1 [pfp_schedule@litmus/sched_fpps.c:394]: becoming idle at 8278144104434, mode 0
+633633 P1 [pfp_schedule@litmus/sched_fpps.c:233]: ;AN;Mode;0;critial;0;runtime;0;c_lo;0;c_hi;0
+633634 P1 [pfp_schedule@litmus/sched_fpps.c:244]: Task parameters : out_of_time 0, np 0, sleep 0, blocking 0 migrate 0, preempt 0
+633635 P1 [pfp_schedule@litmus/sched_fpps.c:341]: bailout_overhead : 1982
+633636 P1 [pfp_schedule@litmus/sched_fpps.c:357]: (null/0:0) picked next task from ready queue
+633637 P1 [pfp_schedule@litmus/sched_fpps.c:394]: becoming idle at 8278144122250, mode 0
+633638 P1 [pfp_schedule@litmus/sched_fpps.c:233]: ;AN;Mode;0;critial;0;runtime;0;c_lo;0;c_hi;0
+633639 P1 [pfp_schedule@litmus/sched_fpps.c:244]: Task parameters : out_of_time 0, np 0, sleep 0, blocking 0 migrate 0, preempt 0
+633640 P1 [pfp_schedule@litmus/sched_fpps.c:341]: bailout_overhead : 2312
+633641 P1 [pfp_schedule@litmus/sched_fpps.c:357]: (null/0:0) picked next task from ready queue
+633642 P1 [pfp_schedule@litmus/sched_fpps.c:394]: becoming idle at 8278144167676, mode 0
+633643 P1 [pfp_schedule@litmus/sched_fpps.c:233]: ;AN;Mode;0;critial;0;runtime;0;c_lo;0;c_hi;0
+633644 P1 [pfp_schedule@litmus/sched_fpps.c:244]: Task parameters : out_of_time 0, np 0, sleep 0, blocking 0 migrate 0, preempt 0
+633645 P1 [pfp_schedule@litmus/sched_fpps.c:341]: bailout_overhead : 3482
+633646 P1 [pfp_schedule@litmus/sched_fpps.c:357]: (null/0:0) picked next task from ready queue
+633647 P1 [pfp_schedule@litmus/sched_fpps.c:394]: becoming idle at 8278156113911, mode 0
+633648 P1 [pfp_schedule@litmus/sched_fpps.c:233]: ;AN;Mode;0;critial;0;runtime;0;c_lo;0;c_hi;0
+633649 P1 [pfp_schedule@litmus/sched_fpps.c:244]: Task parameters : out_of_time 0, np 0, sleep 0, blocking 0 migrate 0, preempt 0
+633650 P1 [pfp_schedule@litmus/sched_fpps.c:341]: bailout_overhead : 1934
+633651 P1 [pfp_schedule@litmus/sched_fpps.c:357]: (null/0:0) picked next task from ready queue
+633652 P1 [pfp_schedule@litmus/sched_fpps.c:394]: becoming idle at 8278156128949, mode 0
+633653 P1 [pfp_schedule@litmus/sched_fpps.c:233]: ;AN;Mode;0;critial;0;runtime;0;c_lo;0;c_hi;0
+633654 P1 [pfp_schedule@litmus/sched_fpps.c:244]: Task parameters : out_of_time 0, np 0, sleep 0, blocking 0 migrate 0, preempt 0
+633655 P1 [pfp_schedule@litmus/sched_fpps.c:341]: bailout_overhead : 1918
+633656 P1 [pfp_schedule@litmus/sched_fpps.c:357]: (null/0:0) picked next task from ready queue
+633657 P1 [pfp_schedule@litmus/sched_fpps.c:394]: becoming idle at 8278156164998, mode 0
+633658 P1 [pfp_schedule@litmus/sched_fpps.c:233]: ;AN;Mode;0;critial;0;runtime;0;c_lo;0;c_hi;0
+633659 P1 [pfp_schedule@litmus/sched_fpps.c:244]: Task parameters : out_of_time 0, np 0, sleep 0, blocking 0 migrate 0, preempt 0
+633660 P1 [pfp_schedule@litmus/sched_fpps.c:341]: bailout_overhead : 2066
+633661 P1 [pfp_schedule@litmus/sched_fpps.c:357]: (null/0:0) picked next task from ready queue
+633662 P1 [pfp_schedule@litmus/sched_fpps.c:394]: becoming idle at 8278156179615, mode 0
+633663 P1 [pfp_schedule@litmus/sched_fpps.c:233]: ;AN;Mode;0;critial;0;runtime;0;c_lo;0;c_hi;0
+633664 P1 [pfp_schedule@litmus/sched_fpps.c:244]: Task parameters : out_of_time 0, np 0, sleep 0, blocking 0 migrate 0, preempt 0
+633665 P1 [pfp_schedule@litmus/sched_fpps.c:341]: bailout_overhead : 2687
+633666 P1 [pfp_schedule@litmus/sched_fpps.c:357]: (null/0:0) picked next task from ready queue
+633667 P1 [pfp_schedule@litmus/sched_fpps.c:394]: becoming idle at 8278168071462, mode 0
+633668 P1 [pfp_schedule@litmus/sched_fpps.c:233]: ;AN;Mode;0;critial;0;runtime;0;c_lo;0;c_hi;0
+633669 P1 [pfp_schedule@litmus/sched_fpps.c:244]: Task parameters : out_of_time 0, np 0, sleep 0, blocking 0 migrate 0, preempt 0
+633670 P1 [pfp_schedule@litmus/sched_fpps.c:341]: bailout_overhead : 1850
+633671 P1 [pfp_schedule@litmus/sched_fpps.c:357]: (null/0:0) picked next task from ready queue
+633672 P1 [pfp_schedule@litmus/sched_fpps.c:394]: becoming idle at 8278168083127, mode 0
+633673 P1 [pfp_schedule@litmus/sched_fpps.c:233]: ;AN;Mode;0;critial;0;runtime;0;c_lo;0;c_hi;0
+633674 P1 [pfp_schedule@litmus/sched_fpps.c:244]: Task parameters : out_of_time 0, np 0, sleep 0, blocking 0 migrate 0, preempt 0
+633675 P1 [pfp_schedule@litmus/sched_fpps.c:341]: bailout_overhead : 1798
+633676 P1 [pfp_schedule@litmus/sched_fpps.c:357]: (null/0:0) picked next task from ready queue
+633677 P1 [pfp_schedule@litmus/sched_fpps.c:394]: becoming idle at 8278168100910, mode 0
+633777 P1 [pfp_schedule@litmus/sched_fpps.c:233]: ;AN;Mode;0;critial;0;runtime;0;c_lo;0;c_hi;0
+633779 P1 [pfp_schedule@litmus/sched_fpps.c:244]: Task parameters : out_of_time 0, np 0, sleep 0, blocking 0 migrate 0, preempt 0
+633780 P1 [pfp_schedule@litmus/sched_fpps.c:341]: bailout_overhead : 3069
+633781 P1 [pfp_schedule@litmus/sched_fpps.c:357]: (null/0:0) picked next task from ready queue
+633782 P1 [pfp_schedule@litmus/sched_fpps.c:394]: becoming idle at 8278513626877, mode 0
+633783 P1 [pfp_schedule@litmus/sched_fpps.c:233]: ;AN;Mode;0;critial;0;runtime;0;c_lo;0;c_hi;0
+633784 P1 [pfp_schedule@litmus/sched_fpps.c:244]: Task parameters : out_of_time 0, np 0, sleep 0, blocking 0 migrate 0, preempt 0
+633785 P1 [pfp_schedule@litmus/sched_fpps.c:341]: bailout_overhead : 2077
+633786 P1 [pfp_schedule@litmus/sched_fpps.c:357]: (null/0:0) picked next task from ready queue
+633787 P1 [pfp_schedule@litmus/sched_fpps.c:394]: becoming idle at 8278513905886, mode 0
+633788 P1 [pfp_schedule@litmus/sched_fpps.c:233]: ;AN;Mode;0;critial;0;runtime;0;c_lo;0;c_hi;0
+633789 P1 [pfp_schedule@litmus/sched_fpps.c:244]: Task parameters : out_of_time 0, np 0, sleep 0, blocking 0 migrate 0, preempt 0
+633790 P1 [pfp_schedule@litmus/sched_fpps.c:341]: bailout_overhead : 3802
+633791 P1 [pfp_schedule@litmus/sched_fpps.c:357]: (null/0:0) picked next task from ready queue
+633792 P1 [pfp_schedule@litmus/sched_fpps.c:394]: becoming idle at 8278692289674, mode 0
+633813 P1 [pfp_schedule@litmus/sched_fpps.c:233]: ;AN;Mode;0;critial;0;runtime;0;c_lo;0;c_hi;0
+633814 P1 [pfp_schedule@litmus/sched_fpps.c:244]: Task parameters : out_of_time 0, np 0, sleep 0, blocking 0 migrate 0, preempt 0
+633815 P1 [pfp_schedule@litmus/sched_fpps.c:341]: bailout_overhead : 6734
+633816 P1 [pfp_schedule@litmus/sched_fpps.c:357]: (null/0:0) picked next task from ready queue
+633817 P1 [pfp_schedule@litmus/sched_fpps.c:394]: becoming idle at 8279192240126, mode 0
+633819 P1 [pfp_schedule@litmus/sched_fpps.c:233]: ;AN;Mode;0;critial;0;runtime;0;c_lo;0;c_hi;0
+633821 P1 [pfp_schedule@litmus/sched_fpps.c:244]: Task parameters : out_of_time 0, np 0, sleep 0, blocking 0 migrate 0, preempt 0
+633822 P1 [pfp_schedule@litmus/sched_fpps.c:341]: bailout_overhead : 2416
+633824 P1 [pfp_schedule@litmus/sched_fpps.c:357]: (null/0:0) picked next task from ready queue
+633826 P1 [pfp_schedule@litmus/sched_fpps.c:394]: becoming idle at 8279192280322, mode 0
+633838 P1 [pfp_schedule@litmus/sched_fpps.c:233]: ;AN;Mode;0;critial;0;runtime;0;c_lo;0;c_hi;0
+633839 P1 [pfp_schedule@litmus/sched_fpps.c:244]: Task parameters : out_of_time 0, np 0, sleep 0, blocking 0 migrate 0, preempt 0
+633840 P1 [pfp_schedule@litmus/sched_fpps.c:341]: bailout_overhead : 2850
+633841 P1 [pfp_schedule@litmus/sched_fpps.c:357]: (null/0:0) picked next task from ready queue
+633842 P1 [pfp_schedule@litmus/sched_fpps.c:394]: becoming idle at 8279315093224, mode 0
+633843 P1 [pfp_schedule@litmus/sched_fpps.c:233]: ;AN;Mode;0;critial;0;runtime;0;c_lo;0;c_hi;0
+633844 P1 [pfp_schedule@litmus/sched_fpps.c:244]: Task parameters : out_of_time 0, np 0, sleep 0, blocking 0 migrate 0, preempt 0
+633845 P1 [pfp_schedule@litmus/sched_fpps.c:341]: bailout_overhead : 2955
+633846 P1 [pfp_schedule@litmus/sched_fpps.c:357]: (null/0:0) picked next task from ready queue
+633847 P1 [pfp_schedule@litmus/sched_fpps.c:394]: becoming idle at 8279315386355, mode 0
+633857 P1 [pfp_schedule@litmus/sched_fpps.c:233]: ;AN;Mode;0;critial;0;runtime;0;c_lo;0;c_hi;0
+633859 P1 [pfp_schedule@litmus/sched_fpps.c:244]: Task parameters : out_of_time 0, np 0, sleep 0, blocking 0 migrate 0, preempt 0
+633860 P1 [pfp_schedule@litmus/sched_fpps.c:341]: bailout_overhead : 3064
+633861 P1 [pfp_schedule@litmus/sched_fpps.c:357]: (null/0:0) picked next task from ready queue
+633862 P1 [pfp_schedule@litmus/sched_fpps.c:394]: becoming idle at 8279315540578, mode 0
+633863 P1 [pfp_schedule@litmus/sched_fpps.c:233]: ;AN;Mode;0;critial;0;runtime;0;c_lo;0;c_hi;0
+633864 P1 [pfp_schedule@litmus/sched_fpps.c:244]: Task parameters : out_of_time 0, np 0, sleep 0, blocking 0 migrate 0, preempt 0
+633865 P1 [pfp_schedule@litmus/sched_fpps.c:341]: bailout_overhead : 1973
+633866 P1 [pfp_schedule@litmus/sched_fpps.c:357]: (null/0:0) picked next task from ready queue
+633867 P1 [pfp_schedule@litmus/sched_fpps.c:394]: becoming idle at 8279315606385, mode 0
+634013 P1 [pfp_schedule@litmus/sched_fpps.c:233]: ;AN;Mode;0;critial;0;runtime;0;c_lo;0;c_hi;0
+634014 P1 [pfp_schedule@litmus/sched_fpps.c:244]: Task parameters : out_of_time 0, np 0, sleep 0, blocking 0 migrate 0, preempt 0
+634015 P1 [pfp_schedule@litmus/sched_fpps.c:341]: bailout_overhead : 2959
+634016 P1 [pfp_schedule@litmus/sched_fpps.c:357]: (null/0:0) picked next task from ready queue
+634017 P1 [pfp_schedule@litmus/sched_fpps.c:394]: becoming idle at 8279716727795, mode 0
+634018 P1 [pfp_schedule@litmus/sched_fpps.c:233]: ;AN;Mode;0;critial;0;runtime;0;c_lo;0;c_hi;0
+634019 P1 [pfp_schedule@litmus/sched_fpps.c:244]: Task parameters : out_of_time 0, np 0, sleep 0, blocking 0 migrate 0, preempt 0
+634020 P1 [pfp_schedule@litmus/sched_fpps.c:341]: bailout_overhead : 2105
+634021 P1 [pfp_schedule@litmus/sched_fpps.c:357]: (null/0:0) picked next task from ready queue
+634022 P1 [pfp_schedule@litmus/sched_fpps.c:394]: becoming idle at 8279717007087, mode 0
+634058 P1 [pfp_schedule@litmus/sched_fpps.c:233]: ;AN;Mode;0;critial;0;runtime;0;c_lo;0;c_hi;0
+634059 P1 [pfp_schedule@litmus/sched_fpps.c:244]: Task parameters : out_of_time 0, np 0, sleep 0, blocking 0 migrate 0, preempt 0
+634060 P1 [pfp_schedule@litmus/sched_fpps.c:341]: bailout_overhead : 3189
+634061 P1 [pfp_schedule@litmus/sched_fpps.c:357]: (null/0:0) picked next task from ready queue
+634062 P1 [pfp_schedule@litmus/sched_fpps.c:394]: becoming idle at 8280092093222, mode 0
+634063 P1 [pfp_schedule@litmus/sched_fpps.c:233]: ;AN;Mode;0;critial;0;runtime;0;c_lo;0;c_hi;0
+634064 P1 [pfp_schedule@litmus/sched_fpps.c:244]: Task parameters : out_of_time 0, np 0, sleep 0, blocking 0 migrate 0, preempt 0
+634065 P1 [pfp_schedule@litmus/sched_fpps.c:341]: bailout_overhead : 1857
+634066 P1 [pfp_schedule@litmus/sched_fpps.c:357]: (null/0:0) picked next task from ready queue
+634067 P1 [pfp_schedule@litmus/sched_fpps.c:394]: becoming idle at 8280092107768, mode 0
+634078 P1 [pfp_schedule@litmus/sched_fpps.c:233]: ;AN;Mode;0;critial;0;runtime;0;c_lo;0;c_hi;0
+634079 P1 [pfp_schedule@litmus/sched_fpps.c:244]: Task parameters : out_of_time 0, np 0, sleep 0, blocking 0 migrate 0, preempt 0
+634080 P1 [pfp_schedule@litmus/sched_fpps.c:341]: bailout_overhead : 3613
+634081 P1 [pfp_schedule@litmus/sched_fpps.c:357]: (null/0:0) picked next task from ready queue
+634082 P1 [pfp_schedule@litmus/sched_fpps.c:394]: becoming idle at 8280192141111, mode 0
+634102 P1 [pfp_schedule@litmus/sched_fpps.c:233]: ;AN;Mode;0;critial;0;runtime;0;c_lo;0;c_hi;0
+634104 P1 [pfp_schedule@litmus/sched_fpps.c:244]: Task parameters : out_of_time 0, np 0, sleep 0, blocking 0 migrate 0, preempt 0
+634105 P1 [pfp_schedule@litmus/sched_fpps.c:341]: bailout_overhead : 3089
+634106 P1 [pfp_schedule@litmus/sched_fpps.c:357]: (null/0:0) picked next task from ready queue
+634107 P1 [pfp_schedule@litmus/sched_fpps.c:394]: becoming idle at 8280518177692, mode 0
+634108 P1 [pfp_schedule@litmus/sched_fpps.c:233]: ;AN;Mode;0;critial;0;runtime;0;c_lo;0;c_hi;0
+634109 P1 [pfp_schedule@litmus/sched_fpps.c:244]: Task parameters : out_of_time 0, np 0, sleep 0, blocking 0 migrate 0, preempt 0
+634110 P1 [pfp_schedule@litmus/sched_fpps.c:341]: bailout_overhead : 2096
+634111 P1 [pfp_schedule@litmus/sched_fpps.c:357]: (null/0:0) picked next task from ready queue
+634112 P1 [pfp_schedule@litmus/sched_fpps.c:394]: becoming idle at 8280518455988, mode 0
+634193 P1 [pfp_schedule@litmus/sched_fpps.c:233]: ;AN;Mode;0;critial;0;runtime;0;c_lo;0;c_hi;0
+634194 P1 [pfp_schedule@litmus/sched_fpps.c:244]: Task parameters : out_of_time 0, np 0, sleep 0, blocking 0 migrate 0, preempt 0
+634195 P1 [pfp_schedule@litmus/sched_fpps.c:341]: bailout_overhead : 2893
+634196 P1 [pfp_schedule@litmus/sched_fpps.c:357]: (null/0:0) picked next task from ready queue
+634197 P1 [pfp_schedule@litmus/sched_fpps.c:394]: becoming idle at 8280919256338, mode 0
+634198 P1 [pfp_schedule@litmus/sched_fpps.c:233]: ;AN;Mode;0;critial;0;runtime;0;c_lo;0;c_hi;0
+634199 P1 [pfp_schedule@litmus/sched_fpps.c:244]: Task parameters : out_of_time 0, np 0, sleep 0, blocking 0 migrate 0, preempt 0
+634200 P1 [pfp_schedule@litmus/sched_fpps.c:341]: bailout_overhead : 2143
+634201 P1 [pfp_schedule@litmus/sched_fpps.c:357]: (null/0:0) picked next task from ready queue
+634202 P1 [pfp_schedule@litmus/sched_fpps.c:394]: becoming idle at 8280919535166, mode 0
+634328 P1 [pfp_schedule@litmus/sched_fpps.c:233]: ;AN;Mode;0;critial;0;runtime;0;c_lo;0;c_hi;0
+634329 P1 [pfp_schedule@litmus/sched_fpps.c:244]: Task parameters : out_of_time 0, np 0, sleep 0, blocking 0 migrate 0, preempt 0
+634330 P1 [pfp_schedule@litmus/sched_fpps.c:341]: bailout_overhead : 3872
+634331 P1 [pfp_schedule@litmus/sched_fpps.c:357]: (null/0:0) picked next task from ready queue
+634332 P1 [pfp_schedule@litmus/sched_fpps.c:394]: becoming idle at 8281692234111, mode 0
+634333 P1 [pfp_schedule@litmus/sched_fpps.c:233]: ;AN;Mode;0;critial;0;runtime;0;c_lo;0;c_hi;0
+634334 P1 [pfp_schedule@litmus/sched_fpps.c:244]: Task parameters : out_of_time 0, np 0, sleep 0, blocking 0 migrate 0, preempt 0
+634335 P1 [pfp_schedule@litmus/sched_fpps.c:341]: bailout_overhead : 4310
+634336 P1 [pfp_schedule@litmus/sched_fpps.c:357]: (null/0:0) picked next task from ready queue
+634337 P1 [pfp_schedule@litmus/sched_fpps.c:394]: becoming idle at 8281708250227, mode 0
+634338 P1 [pfp_schedule@litmus/sched_fpps.c:233]: ;AN;Mode;0;critial;0;runtime;0;c_lo;0;c_hi;0
+634339 P1 [pfp_schedule@litmus/sched_fpps.c:244]: Task parameters : out_of_time 0, np 0, sleep 0, blocking 0 migrate 0, preempt 0
+634340 P1 [pfp_schedule@litmus/sched_fpps.c:341]: bailout_overhead : 2384
+634341 P1 [pfp_schedule@litmus/sched_fpps.c:357]: (null/0:0) picked next task from ready queue
+634342 P1 [pfp_schedule@litmus/sched_fpps.c:394]: becoming idle at 8281708297177, mode 0
+634343 P1 [pfp_schedule@litmus/sched_fpps.c:233]: ;AN;Mode;0;critial;0;runtime;0;c_lo;0;c_hi;0
+634344 P1 [pfp_schedule@litmus/sched_fpps.c:244]: Task parameters : out_of_time 0, np 0, sleep 0, blocking 0 migrate 0, preempt 0
+634345 P1 [pfp_schedule@litmus/sched_fpps.c:341]: bailout_overhead : 1820
+634346 P1 [pfp_schedule@litmus/sched_fpps.c:357]: (null/0:0) picked next task from ready queue
+634347 P1 [pfp_schedule@litmus/sched_fpps.c:394]: becoming idle at 8281708311751, mode 0
+634358 P1 [pfp_schedule@litmus/sched_fpps.c:233]: ;AN;Mode;0;critial;0;runtime;0;c_lo;0;c_hi;0
+634359 P1 [pfp_schedule@litmus/sched_fpps.c:244]: Task parameters : out_of_time 0, np 0, sleep 0, blocking 0 migrate 0, preempt 0
+634360 P1 [pfp_schedule@litmus/sched_fpps.c:341]: bailout_overhead : 2990
+634361 P1 [pfp_schedule@litmus/sched_fpps.c:357]: (null/0:0) picked next task from ready queue
+634362 P1 [pfp_schedule@litmus/sched_fpps.c:394]: becoming idle at 8281720758061, mode 0
+634363 P1 [pfp_schedule@litmus/sched_fpps.c:233]: ;AN;Mode;0;critial;0;runtime;0;c_lo;0;c_hi;0
+634364 P1 [pfp_schedule@litmus/sched_fpps.c:244]: Task parameters : out_of_time 0, np 0, sleep 0, blocking 0 migrate 0, preempt 0
+634365 P1 [pfp_schedule@litmus/sched_fpps.c:341]: bailout_overhead : 2120
+634366 P1 [pfp_schedule@litmus/sched_fpps.c:357]: (null/0:0) picked next task from ready queue
+634367 P1 [pfp_schedule@litmus/sched_fpps.c:394]: becoming idle at 8281721056494, mode 0
+634478 P1 [pfp_schedule@litmus/sched_fpps.c:233]: ;AN;Mode;0;critial;0;runtime;0;c_lo;0;c_hi;0
+634479 P1 [pfp_schedule@litmus/sched_fpps.c:244]: Task parameters : out_of_time 0, np 0, sleep 0, blocking 0 migrate 0, preempt 0
+634480 P1 [pfp_schedule@litmus/sched_fpps.c:341]: bailout_overhead : 2912
+634481 P1 [pfp_schedule@litmus/sched_fpps.c:357]: (null/0:0) picked next task from ready queue
+634482 P1 [pfp_schedule@litmus/sched_fpps.c:394]: becoming idle at 8282121903929, mode 0
+634483 P1 [pfp_schedule@litmus/sched_fpps.c:233]: ;AN;Mode;0;critial;0;runtime;0;c_lo;0;c_hi;0
+634484 P1 [pfp_schedule@litmus/sched_fpps.c:244]: Task parameters : out_of_time 0, np 0, sleep 0, blocking 0 migrate 0, preempt 0
+634485 P1 [pfp_schedule@litmus/sched_fpps.c:341]: bailout_overhead : 2123
+634486 P1 [pfp_schedule@litmus/sched_fpps.c:357]: (null/0:0) picked next task from ready queue
+634487 P1 [pfp_schedule@litmus/sched_fpps.c:394]: becoming idle at 8282122185509, mode 0

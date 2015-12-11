@@ -1,0 +1,26 @@
+# !/bin/zsh
+
+#Test case 1, EDF-VD 
+
+opt="$1"
+
+case "$opt" in  
+
+"1")
+echo "Running test case 1"
+sudo ./rtspin -f test/01.csv -p 0 -C 1 -w  2 10 4 10 &
+sudo ./rtspin -f test/02.csv -p 0 -C 1 -w  3 20 6 20 &
+sudo ./rtspin -f test/03.csv -p 0 -C 0 -w  4 40 4 40 &
+
+;;
+
+"2")
+echo "Running test case 2"
+sudo ./rtspin -f test/01.csv -p 0 -C 0 -w  1 5 1 5 &
+sudo ./rtspin -f test/02.csv -p 0 -C 1 -w  2 10 3 10 &
+sudo ./rtspin -f test/03.csv -p 0 -C 0 -w  3 20 3 20 &
+sudo ./rtspin -f test/01.csv -p 0 -C 1 -w  4 40 8 40 &
+
+;;
+
+esac

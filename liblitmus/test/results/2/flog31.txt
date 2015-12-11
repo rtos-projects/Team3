@@ -1,0 +1,24 @@
+PID:-[1775] priority:-[1] mode:-[0] Criticality:-[1] exec_time:-[5] c_lo:-[5] c_hi:-[10]
+PID:-[1776] priority:-[2] mode:-[0] Criticality:-[0] exec_time:-[15] c_lo:-[15] c_hi:-[15]
+PID:-[1774] priority:-[3] mode:-[0] Criticality:-[1] exec_time:-[5] c_lo:-[5] c_hi:-[10]
+PID:-[1775] priority:-[1] mode:-[0] Criticality:-[1] exec_time:-[10] c_lo:-[5] c_hi:-[10]
+46475 P1 [pfp_schedule@litmus/sched_fpps.c:384]: Entering bailout mode
+
+bfund = [5]
+PID:-[1776] priority:-[2] mode:-[1] Criticality:-[0] exec_time:-[5] c_lo:-[15] c_hi:-[15]
+bfund = [0]
+46489 P1 [pfp_schedule@litmus/sched_fpps.c:355]: Entering recovery mode jk- 1764
+
+PID:-[1774] priority:-[3] mode:-[2] Criticality:-[1] exec_time:-[10] c_lo:-[5] c_hi:-[10]
+46667 P1 [pfp_schedule@litmus/sched_fpps.c:365]: Entering bailout mode from recovery
+
+bfund = [5]
+bfund = [10]
+46679 P1 [pfp_schedule@litmus/sched_fpps.c:442]: Entering Normal mode
+
+total bailout overhead	:- 29332
+total lowCrit Abandoned	:- 0
+total tasks released     :- 9
+total hicrit deadline miss  :-0
+total lowcrit deadline miss :-0
+info:
